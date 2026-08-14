@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "If you use this research package, please cite the repository, associated manuscript, and linked dataset as appropriate."
-title: "ANDV computational vaccine analysis"
+message: "If you use ANDVOR, please cite the associated manuscript and research package."
+title: "ANDVOR: Andes Virus Open Research Vaccine computational research package"
 authors:
   - family-names: Stuprator
     given-names: Summus
