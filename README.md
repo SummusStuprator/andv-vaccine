@@ -4,7 +4,7 @@ This repository contains the computational research package for an in silico mul
 
 **Author:** Summus Stuprator
 
-The project combines peptide-HLA prediction, reduction of overlapping predictions to non-redundant regions, sequence-conservation analysis, human-proteome sequence comparison, genotype-based population-coverage modeling, secondary B-cell prediction, and candidate-level sequence descriptors. THIS IS STRICTLY AN IN-SILICO CANDIDATE, meaning that all designs and computations were done on computer systems and machine learning algorithms. None of the content here has been validated in real-world laboratory conditions at this time. 
+The project combines peptide-HLA prediction, reduction of overlapping predictions to non-redundant regions, sequence-conservation analysis, human-proteome sequence comparison, genotype-based population-coverage modeling, secondary B-cell prediction, and candidate-level sequence descriptors. This is strictly an in-silico vaccine candidate, meaning that all designs were done only on computer systems. None of the content here has been validated in real-world laboratory conditions at this time. 
 ## Main results
 
 We analyzed 342,430 class-I and 64,680 class-II peptide-allele prediction rows and succesfully reduced strong-binding predictions to 836 unique class-I peptides and 308 unique class-II peptides.
