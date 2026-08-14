@@ -1,0 +1,536 @@
+{
+ "terminology_note": "BepiPred-3.0/DiscoTope-3.0 predict B-cell epitopes, not neutralization.",
+ "bepipred_linear_regions": {
+  "ANDV_Gn": [
+   {
+    "start": 64,
+    "end": 101,
+    "length": 38
+   },
+   {
+    "start": 113,
+    "end": 120,
+    "length": 8
+   },
+   {
+    "start": 212,
+    "end": 217,
+    "length": 6
+   },
+   {
+    "start": 272,
+    "end": 287,
+    "length": 16
+   },
+   {
+    "start": 406,
+    "end": 413,
+    "length": 8
+   }
+  ],
+  "ANDV_Gc": [],
+  "ANDV_N": [
+   {
+    "start": 33,
+    "end": 46,
+    "length": 14
+   },
+   {
+    "start": 66,
+    "end": 116,
+    "length": 51
+   },
+   {
+    "start": 146,
+    "end": 200,
+    "length": 55
+   },
+   {
+    "start": 207,
+    "end": 211,
+    "length": 5
+   },
+   {
+    "start": 234,
+    "end": 242,
+    "length": 9
+   },
+   {
+    "start": 244,
+    "end": 275,
+    "length": 32
+   },
+   {
+    "start": 297,
+    "end": 301,
+    "length": 5
+   },
+   {
+    "start": 309,
+    "end": 317,
+    "length": 9
+   },
+   {
+    "start": 342,
+    "end": 353,
+    "length": 12
+   },
+   {
+    "start": 365,
+    "end": 371,
+    "length": 7
+   },
+   {
+    "start": 390,
+    "end": 407,
+    "length": 18
+   },
+   {
+    "start": 420,
+    "end": 424,
+    "length": 5
+   }
+  ]
+ },
+ "discotope": {
+  "ANDV_Gn": {
+   "n_high_confidence_residues": 108,
+   "plddt_column_note": "discotope.plddts is uniformly 100.0 in the shipped CSV; the pLDDT>70 filter is vacuous on these data.",
+   "sequence_contiguity_patches": [
+    {
+     "start": 16,
+     "end": 16,
+     "n_residues": 1
+    },
+    {
+     "start": 27,
+     "end": 31,
+     "n_residues": 5
+    },
+    {
+     "start": 44,
+     "end": 44,
+     "n_residues": 1
+    },
+    {
+     "start": 56,
+     "end": 58,
+     "n_residues": 3
+    },
+    {
+     "start": 77,
+     "end": 94,
+     "n_residues": 18
+    },
+    {
+     "start": 111,
+     "end": 111,
+     "n_residues": 1
+    },
+    {
+     "start": 115,
+     "end": 120,
+     "n_residues": 6
+    },
+    {
+     "start": 146,
+     "end": 152,
+     "n_residues": 7
+    },
+    {
+     "start": 174,
+     "end": 174,
+     "n_residues": 1
+    },
+    {
+     "start": 179,
+     "end": 179,
+     "n_residues": 1
+    },
+    {
+     "start": 186,
+     "end": 199,
+     "n_residues": 14
+    },
+    {
+     "start": 213,
+     "end": 216,
+     "n_residues": 4
+    },
+    {
+     "start": 221,
+     "end": 221,
+     "n_residues": 1
+    },
+    {
+     "start": 225,
+     "end": 231,
+     "n_residues": 7
+    },
+    {
+     "start": 250,
+     "end": 250,
+     "n_residues": 1
+    },
+    {
+     "start": 255,
+     "end": 258,
+     "n_residues": 4
+    },
+    {
+     "start": 263,
+     "end": 263,
+     "n_residues": 1
+    },
+    {
+     "start": 267,
+     "end": 267,
+     "n_residues": 1
+    },
+    {
+     "start": 271,
+     "end": 271,
+     "n_residues": 1
+    },
+    {
+     "start": 278,
+     "end": 293,
+     "n_residues": 16
+    },
+    {
+     "start": 297,
+     "end": 297,
+     "n_residues": 1
+    },
+    {
+     "start": 301,
+     "end": 305,
+     "n_residues": 5
+    },
+    {
+     "start": 345,
+     "end": 345,
+     "n_residues": 1
+    },
+    {
+     "start": 361,
+     "end": 361,
+     "n_residues": 1
+    },
+    {
+     "start": 365,
+     "end": 368,
+     "n_residues": 4
+    },
+    {
+     "start": 390,
+     "end": 390,
+     "n_residues": 1
+    },
+    {
+     "start": 399,
+     "end": 399,
+     "n_residues": 1
+    },
+    {
+     "start": 405,
+     "end": 415,
+     "n_residues": 11
+    },
+    {
+     "start": 422,
+     "end": 425,
+     "n_residues": 4
+    },
+    {
+     "start": 435,
+     "end": 435,
+     "n_residues": 1
+    },
+    {
+     "start": 457,
+     "end": 461,
+     "n_residues": 5
+    },
+    {
+     "start": 474,
+     "end": 474,
+     "n_residues": 1
+    },
+    {
+     "start": 478,
+     "end": 478,
+     "n_residues": 1
+    },
+    {
+     "start": 487,
+     "end": 487,
+     "n_residues": 1
+    },
+    {
+     "start": 491,
+     "end": 492,
+     "n_residues": 2
+    }
+   ]
+  },
+  "ANDV_Gc": {
+   "n_high_confidence_residues": 134,
+   "plddt_column_note": "discotope.plddts is uniformly 100.0 in the shipped CSV; the pLDDT>70 filter is vacuous on these data.",
+   "sequence_contiguity_patches": [
+    {
+     "start": 4,
+     "end": 4,
+     "n_residues": 1
+    },
+    {
+     "start": 52,
+     "end": 52,
+     "n_residues": 1
+    },
+    {
+     "start": 61,
+     "end": 68,
+     "n_residues": 8
+    },
+    {
+     "start": 72,
+     "end": 76,
+     "n_residues": 5
+    },
+    {
+     "start": 82,
+     "end": 85,
+     "n_residues": 4
+    },
+    {
+     "start": 89,
+     "end": 89,
+     "n_residues": 1
+    },
+    {
+     "start": 93,
+     "end": 95,
+     "n_residues": 3
+    },
+    {
+     "start": 100,
+     "end": 102,
+     "n_residues": 3
+    },
+    {
+     "start": 106,
+     "end": 108,
+     "n_residues": 3
+    },
+    {
+     "start": 115,
+     "end": 125,
+     "n_residues": 11
+    },
+    {
+     "start": 129,
+     "end": 137,
+     "n_residues": 9
+    },
+    {
+     "start": 150,
+     "end": 150,
+     "n_residues": 1
+    },
+    {
+     "start": 175,
+     "end": 176,
+     "n_residues": 2
+    },
+    {
+     "start": 196,
+     "end": 197,
+     "n_residues": 2
+    },
+    {
+     "start": 221,
+     "end": 224,
+     "n_residues": 4
+    },
+    {
+     "start": 256,
+     "end": 256,
+     "n_residues": 1
+    },
+    {
+     "start": 260,
+     "end": 276,
+     "n_residues": 17
+    },
+    {
+     "start": 284,
+     "end": 290,
+     "n_residues": 7
+    },
+    {
+     "start": 294,
+     "end": 301,
+     "n_residues": 8
+    },
+    {
+     "start": 311,
+     "end": 312,
+     "n_residues": 2
+    },
+    {
+     "start": 353,
+     "end": 353,
+     "n_residues": 1
+    },
+    {
+     "start": 360,
+     "end": 360,
+     "n_residues": 1
+    },
+    {
+     "start": 365,
+     "end": 365,
+     "n_residues": 1
+    },
+    {
+     "start": 375,
+     "end": 380,
+     "n_residues": 6
+    },
+    {
+     "start": 387,
+     "end": 387,
+     "n_residues": 1
+    },
+    {
+     "start": 391,
+     "end": 391,
+     "n_residues": 1
+    },
+    {
+     "start": 405,
+     "end": 407,
+     "n_residues": 3
+    },
+    {
+     "start": 412,
+     "end": 436,
+     "n_residues": 25
+    },
+    {
+     "start": 440,
+     "end": 451,
+     "n_residues": 12
+    },
+    {
+     "start": 456,
+     "end": 456,
+     "n_residues": 1
+    },
+    {
+     "start": 469,
+     "end": 469,
+     "n_residues": 1
+    },
+    {
+     "start": 483,
+     "end": 483,
+     "n_residues": 1
+    },
+    {
+     "start": 488,
+     "end": 492,
+     "n_residues": 5
+    },
+    {
+     "start": 498,
+     "end": 498,
+     "n_residues": 1
+    },
+    {
+     "start": 502,
+     "end": 502,
+     "n_residues": 1
+    },
+    {
+     "start": 523,
+     "end": 523,
+     "n_residues": 1
+    },
+    {
+     "start": 564,
+     "end": 564,
+     "n_residues": 1
+    },
+    {
+     "start": 587,
+     "end": 594,
+     "n_residues": 8
+    },
+    {
+     "start": 612,
+     "end": 612,
+     "n_residues": 1
+    },
+    {
+     "start": 632,
+     "end": 632,
+     "n_residues": 1
+    },
+    {
+     "start": 636,
+     "end": 636,
+     "n_residues": 1
+    },
+    {
+     "start": 643,
+     "end": 649,
+     "n_residues": 7
+    },
+    {
+     "start": 654,
+     "end": 661,
+     "n_residues": 8
+    }
+   ]
+  }
+ },
+ "nglyco_sequons": {
+  "ANDV_Gn": [
+   131,
+   343,
+   395
+  ],
+  "ANDV_Gc": [
+   47,
+   453
+  ],
+  "ANDV_N": [
+   10,
+   40,
+   273
+  ]
+ },
+ "modules": {
+  "Gn_272_287": {
+   "sequence": "HPRGEDHDAIQNSQSY",
+   "bepipred_region": true,
+   "discotope_E_fraction": 0.375,
+   "surface_exposed_fraction_rsa>0.2": 0.75,
+   "cons_ANDV_mean_ident": 0.9401,
+   "glycan_shielded": false
+  },
+  "Gc_591_605": {
+   "sequence": "VTGFNQIDSDKVYDD",
+   "stored_start": 591,
+   "stored_end": 605,
+   "bepipred_region": false,
+   "discotope_E_fraction": 0.133,
+   "surface_exposed_fraction_rsa>0.2": 0.8,
+   "cons_ANDV_mean_ident": 0.9972,
+   "glycan_shielded": false,
+   "note": "same sequence as class-II core C2-ANDV_Gc-023 representative peptide"
+  }
+ }
+}

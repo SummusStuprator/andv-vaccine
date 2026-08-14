@@ -1,0 +1,152 @@
+{
+  "model": "per-sample genotype coverage of selected representative peptides",
+  "n_samples": 2693,
+  "bootstrap_replicates": 2000,
+  "seed": 20260812,
+  "allele_credit": "representative-peptide strong-binding allele sets from frozen raw predictions",
+  "scope_note": "Class II is restricted to typed loci: DRB1 directly and, in the broader variant, the DQB1 beta chain of DQ heterodimers. DQA1 is untyped; DRB3/4/5 and DP are not credited.",
+  "selected_core_ids": {
+    "class_I": [
+      "C1-ANDV_Gc-045",
+      "C1-ANDV_Gc-318",
+      "C1-ANDV_Gn-458",
+      "C1-ANDV_N-298",
+      "C1-ANDV_Gc-444",
+      "C1-ANDV_Gc-225",
+      "C1-ANDV_Gn-261",
+      "C1-ANDV_N-129",
+      "C1-ANDV_Gc-268",
+      "C1-ANDV_Gn-159",
+      "C1-ANDV_Gn-066",
+      "C1-ANDV_N-374",
+      "C1-ANDV_N-257",
+      "C1-ANDV_N-420",
+      "C1-ANDV_Gn-190"
+    ],
+    "class_II": [
+      "C2-ANDV_N-175",
+      "C2-ANDV_Gc-591",
+      "C2-ANDV_N-025",
+      "C2-ANDV_N-008",
+      "C2-ANDV_N-248",
+      "C2-ANDV_Gn-351",
+      "C2-ANDV_Gn-335",
+      "C2-ANDV_Gn-084",
+      "C2-ANDV_N-081",
+      "C2-ANDV_N-065"
+    ]
+  },
+  "representative_allele_breadth": {
+    "class_I": {
+      "C1-ANDV_Gc-045": 28,
+      "C1-ANDV_Gc-318": 13,
+      "C1-ANDV_Gn-458": 23,
+      "C1-ANDV_N-298": 13,
+      "C1-ANDV_Gc-444": 24,
+      "C1-ANDV_Gc-225": 21,
+      "C1-ANDV_Gn-261": 17,
+      "C1-ANDV_N-129": 18,
+      "C1-ANDV_Gc-268": 9,
+      "C1-ANDV_Gn-159": 17,
+      "C1-ANDV_Gn-066": 11,
+      "C1-ANDV_N-374": 12,
+      "C1-ANDV_N-257": 14,
+      "C1-ANDV_N-420": 15,
+      "C1-ANDV_Gn-190": 16
+    },
+    "class_II": {
+      "C2-ANDV_N-175": 14,
+      "C2-ANDV_Gc-591": 14,
+      "C2-ANDV_N-025": 6,
+      "C2-ANDV_N-008": 8,
+      "C2-ANDV_N-248": 5,
+      "C2-ANDV_Gn-351": 5,
+      "C2-ANDV_Gn-335": 5,
+      "C2-ANDV_Gn-084": 3,
+      "C2-ANDV_N-081": 3,
+      "C2-ANDV_N-065": 5
+    }
+  },
+  "drb1_only": {
+    "class_I_pct": 99.48,
+    "class_II_pct": 93.95,
+    "combined_pct": 93.5,
+    "combined_95CI": [
+      92.54,
+      94.36
+    ],
+    "by_superpopulation_combined": {
+      "AFR": {
+        "class_I": 99.58,
+        "class_II": 92.84,
+        "combined": 92.42,
+        "n": 712
+      },
+      "AMR": {
+        "class_I": 99.46,
+        "class_II": 87.13,
+        "combined": 87.13,
+        "n": 373
+      },
+      "EAS": {
+        "class_I": 99.25,
+        "class_II": 95.52,
+        "combined": 94.78,
+        "n": 536
+      },
+      "EUR": {
+        "class_I": 99.81,
+        "class_II": 95.46,
+        "combined": 95.27,
+        "n": 529
+      },
+      "SAS": {
+        "class_I": 99.26,
+        "class_II": 97.05,
+        "combined": 96.32,
+        "n": 543
+      }
+    }
+  },
+  "drb1_dqb1": {
+    "class_I_pct": 99.48,
+    "class_II_pct": 97.99,
+    "combined_pct": 97.55,
+    "combined_95CI": [
+      96.96,
+      98.11
+    ],
+    "by_superpopulation_combined": {
+      "AFR": {
+        "class_I": 99.58,
+        "class_II": 97.61,
+        "combined": 97.19,
+        "n": 712
+      },
+      "AMR": {
+        "class_I": 99.46,
+        "class_II": 97.05,
+        "combined": 97.05,
+        "n": 373
+      },
+      "EAS": {
+        "class_I": 99.25,
+        "class_II": 97.95,
+        "combined": 97.2,
+        "n": 536
+      },
+      "EUR": {
+        "class_I": 99.81,
+        "class_II": 97.35,
+        "combined": 97.16,
+        "n": 529
+      },
+      "SAS": {
+        "class_I": 99.26,
+        "class_II": 99.82,
+        "combined": 99.08,
+        "n": 543
+      }
+    }
+  }
+}

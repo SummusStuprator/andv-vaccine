@@ -1,0 +1,9 @@
+class,stage,count
+I,Prediction rows,342430
+I,Unique strong peptides,836
+I,Non-redundant cores,221
+I,Selected cores,15
+II,Prediction rows,64680
+II,Unique strong peptides,308
+II,Non-redundant cores,73
+II,Selected cores,10

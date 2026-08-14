@@ -1,0 +1,16 @@
+{
+  "fetched_at": "2026-08-12T18:14:47.507627+00:00",
+  "result_id": "d551725c-7963-4377-9817-3627a9c76b24",
+  "top_level_keys": [
+    "id",
+    "type",
+    "data",
+    "status"
+  ],
+  "data_keys": [
+    "results",
+    "errors",
+    "warnings"
+  ],
+  "versions": null
+}

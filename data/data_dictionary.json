@@ -1,0 +1,65 @@
+{
+  "project": "ANDV computational vaccine analysis",
+  "author": "Summus Stuprator",
+  "canonical_sequences": {
+    "file": "data/canonical_sequences.fasta",
+    "genbank": {
+      "M_segment": "MN258217.1",
+      "S_segment": "MN258242.1"
+    },
+    "records": {
+      "ANDV_Gn": {
+        "length_aa": 493,
+        "sha256": "83ac50715428458052e9953868672af02459c2eb61c48dece93a98b57cb20d4d",
+        "source": "MN258217.1",
+        "description": "ANDV Gn + optimized signal peptide (23aa) | mature Gn = GenBank MN258217.1 GPC[31-500]"
+      },
+      "ANDV_Gc": {
+        "length_aa": 661,
+        "sha256": "bbcdd5f6a1fb747a8fbbf708f0d12ced35b8ae773984209695612b59a6fe777d",
+        "source": "MN258217.1",
+        "description": "ANDV Gc + optimized signal peptide (23aa) | mature Gc = GenBank MN258217.1 GPC[501-1138]"
+      },
+      "ANDV_N": {
+        "length_aa": 428,
+        "sha256": "bf936547e824a0dbe39f48913cdc93b489f4c78de4000f976913c18e4ce7c06a",
+        "source": "MN258242.1",
+        "description": "ANDV nucleocapsid | identical to GenBank MN258242.1 CDS"
+      }
+    },
+    "native_reference_file": "data/native_genbank_reference.fasta",
+    "native_reference": {
+      "ANDV_GPC_native": {
+        "length_aa": 1138,
+        "sha256": "09b6bcd0e4f4380f400677d9d0287e183d454e4c8b4ff6661efee74a8f01d3be"
+      },
+      "ANDV_N_native": {
+        "length_aa": 428,
+        "sha256": "bf936547e824a0dbe39f48913cdc93b489f4c78de4000f976913c18e4ce7c06a"
+      }
+    },
+    "note": "Stored Gn and Gc include an engineered 23-aa signal segment; mature viral regions are mapped to the cited GenBank references."
+  },
+  "hla_panel": {
+    "file": "data/hla_allele_panel.json",
+    "population_input": "data/population/20181129_HLA_types_full_1000_Genomes_Project_panel.txt",
+    "typed_loci": [
+      "HLA-A",
+      "HLA-B",
+      "HLA-C",
+      "HLA-DRB1",
+      "HLA-DQB1"
+    ],
+    "n_samples": 2693
+  },
+  "conservation": {
+    "gpc_panel": "data/conservation/gpc_panel.fasta",
+    "n_panel": "data/conservation/n_panel.fasta",
+    "manifest": "data/conservation/fetch_manifest.json"
+  },
+  "raw_predictions": {
+    "metadata_dir": "results/raw_predictions/",
+    "companion_archive_manifest": "results/raw_predictions/deposit_manifest.json"
+  },
+  "release_boundary": "docs/RELEASE_BOUNDARY.md"
+}

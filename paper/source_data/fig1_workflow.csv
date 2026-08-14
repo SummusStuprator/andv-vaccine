@@ -1,0 +1,15 @@
+order,stage,detail
+1,Sequence inputs,"Gn, Gc, N
+GenBank-mapped"
+2,HLA prediction,"55 class I
+42 class II"
+3,Strong-binding filter,"EL percentile
+thresholds"
+4,Redundancy collapse,"Overlapping peptides
+to non-redundant cores"
+5,Core annotation,"Conservation, HLA breadth,
+human-proteome similarity"
+6,Fixed candidate set,"15 class I + 10 class II
+representatives"
+7,Population analysis,"2,693 genotypes
+bootstrap intervals"

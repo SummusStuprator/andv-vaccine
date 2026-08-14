@@ -1,0 +1,246 @@
+{
+  "project": "ANDV computational vaccine analysis",
+  "author": "Summus Stuprator",
+  "scope": "computational analysis of an in silico vaccine candidate; no wet-lab experiments were performed",
+  "data_provenance": {
+    "genbank_M_segment": "MN258217.1",
+    "genbank_S_segment": "MN258242.1",
+    "canonical_sequence_file": "data/canonical_sequences.fasta",
+    "native_reference_file": "data/native_genbank_reference.fasta",
+    "data_dictionary": "data/data_dictionary.json"
+  },
+  "hla_panel": {
+    "class_I_count": 55,
+    "class_II_count": 42,
+    "population_samples": 2693,
+    "typed_loci": [
+      "HLA-A",
+      "HLA-B",
+      "HLA-C",
+      "HLA-DRB1",
+      "HLA-DQB1"
+    ]
+  },
+  "prediction_data": {
+    "class_I_rows": 342430,
+    "class_II_rows": 64680,
+    "companion_archive": "andv-vaccine-raw-predictions-deposit.zip",
+    "companion_archive_sha256": "611080eec966cfec420d2fefbbda26f0c20b871001fa5069ec630380dbc18172",
+    "dataset_doi": "10.5281/zenodo.21939568",
+    "manifest": "results/raw_predictions/deposit_manifest.json"
+  },
+  "core_analysis": {
+    "class_I_cores": 221,
+    "class_II_cores": 73,
+    "selected_class_I": 15,
+    "selected_class_II": 10,
+    "class_I_file": "results/cores_class1_scored.csv",
+    "class_II_file": "results/cores_class2_scored.csv",
+    "selected_class_I_file": "results/final_epitopes_class1.csv",
+    "selected_class_II_file": "results/final_epitopes_class2.csv"
+  },
+  "human_proteome_similarity": {
+    "class_I": {
+      "exact_match": 1,
+      "one_mismatch": 31,
+      "no_match": 804
+    },
+    "class_II": {
+      "exact_match": 0,
+      "one_mismatch": 0,
+      "no_match": 308
+    },
+    "terminology": "short-sequence similarity classes"
+  },
+  "population_coverage": {
+    "model": "per-sample genotype coverage of selected representative peptides",
+    "n_samples": 2693,
+    "bootstrap_replicates": 2000,
+    "seed": 20260812,
+    "allele_credit": "representative-peptide strong-binding allele sets from frozen raw predictions",
+    "scope_note": "Class II is restricted to typed loci: DRB1 directly and, in the broader variant, the DQB1 beta chain of DQ heterodimers. DQA1 is untyped; DRB3/4/5 and DP are not credited.",
+    "selected_core_ids": {
+      "class_I": [
+        "C1-ANDV_Gc-045",
+        "C1-ANDV_Gc-318",
+        "C1-ANDV_Gn-458",
+        "C1-ANDV_N-298",
+        "C1-ANDV_Gc-444",
+        "C1-ANDV_Gc-225",
+        "C1-ANDV_Gn-261",
+        "C1-ANDV_N-129",
+        "C1-ANDV_Gc-268",
+        "C1-ANDV_Gn-159",
+        "C1-ANDV_Gn-066",
+        "C1-ANDV_N-374",
+        "C1-ANDV_N-257",
+        "C1-ANDV_N-420",
+        "C1-ANDV_Gn-190"
+      ],
+      "class_II": [
+        "C2-ANDV_N-175",
+        "C2-ANDV_Gc-591",
+        "C2-ANDV_N-025",
+        "C2-ANDV_N-008",
+        "C2-ANDV_N-248",
+        "C2-ANDV_Gn-351",
+        "C2-ANDV_Gn-335",
+        "C2-ANDV_Gn-084",
+        "C2-ANDV_N-081",
+        "C2-ANDV_N-065"
+      ]
+    },
+    "representative_allele_breadth": {
+      "class_I": {
+        "C1-ANDV_Gc-045": 28,
+        "C1-ANDV_Gc-318": 13,
+        "C1-ANDV_Gn-458": 23,
+        "C1-ANDV_N-298": 13,
+        "C1-ANDV_Gc-444": 24,
+        "C1-ANDV_Gc-225": 21,
+        "C1-ANDV_Gn-261": 17,
+        "C1-ANDV_N-129": 18,
+        "C1-ANDV_Gc-268": 9,
+        "C1-ANDV_Gn-159": 17,
+        "C1-ANDV_Gn-066": 11,
+        "C1-ANDV_N-374": 12,
+        "C1-ANDV_N-257": 14,
+        "C1-ANDV_N-420": 15,
+        "C1-ANDV_Gn-190": 16
+      },
+      "class_II": {
+        "C2-ANDV_N-175": 14,
+        "C2-ANDV_Gc-591": 14,
+        "C2-ANDV_N-025": 6,
+        "C2-ANDV_N-008": 8,
+        "C2-ANDV_N-248": 5,
+        "C2-ANDV_Gn-351": 5,
+        "C2-ANDV_Gn-335": 5,
+        "C2-ANDV_Gn-084": 3,
+        "C2-ANDV_N-081": 3,
+        "C2-ANDV_N-065": 5
+      }
+    },
+    "drb1_only": {
+      "class_I_pct": 99.48,
+      "class_II_pct": 93.95,
+      "combined_pct": 93.5,
+      "combined_95CI": [
+        92.54,
+        94.36
+      ],
+      "by_superpopulation_combined": {
+        "AFR": {
+          "class_I": 99.58,
+          "class_II": 92.84,
+          "combined": 92.42,
+          "n": 712
+        },
+        "AMR": {
+          "class_I": 99.46,
+          "class_II": 87.13,
+          "combined": 87.13,
+          "n": 373
+        },
+        "EAS": {
+          "class_I": 99.25,
+          "class_II": 95.52,
+          "combined": 94.78,
+          "n": 536
+        },
+        "EUR": {
+          "class_I": 99.81,
+          "class_II": 95.46,
+          "combined": 95.27,
+          "n": 529
+        },
+        "SAS": {
+          "class_I": 99.26,
+          "class_II": 97.05,
+          "combined": 96.32,
+          "n": 543
+        }
+      }
+    },
+    "drb1_dqb1": {
+      "class_I_pct": 99.48,
+      "class_II_pct": 97.99,
+      "combined_pct": 97.55,
+      "combined_95CI": [
+        96.96,
+        98.11
+      ],
+      "by_superpopulation_combined": {
+        "AFR": {
+          "class_I": 99.58,
+          "class_II": 97.61,
+          "combined": 97.19,
+          "n": 712
+        },
+        "AMR": {
+          "class_I": 99.46,
+          "class_II": 97.05,
+          "combined": 97.05,
+          "n": 373
+        },
+        "EAS": {
+          "class_I": 99.25,
+          "class_II": 97.95,
+          "combined": 97.2,
+          "n": 536
+        },
+        "EUR": {
+          "class_I": 99.81,
+          "class_II": 97.35,
+          "combined": 97.16,
+          "n": 529
+        },
+        "SAS": {
+          "class_I": 99.26,
+          "class_II": 99.82,
+          "combined": 99.08,
+          "n": 543
+        }
+      }
+    }
+  },
+  "bcell_prediction_summary": {
+    "terminology_note": "BepiPred-3.0/DiscoTope-3.0 predict B-cell epitopes, not neutralization.",
+    "bepipred_linear_region_counts": {
+      "ANDV_Gn": 5,
+      "ANDV_Gc": 0,
+      "ANDV_N": 12
+    },
+    "discotope_high_scoring_residue_counts": {
+      "ANDV_Gn": 108,
+      "ANDV_Gc": 134
+    },
+    "source": "archived external predictor tables; see docs/REPRODUCIBILITY.md"
+  },
+  "construct_summary": {
+    "length_aa": 460,
+    "sha256": "c4f45f77ac6093a3fcea74d8a2af82a41a4b86720ecc31edb3870661dde8ba7a",
+    "mw_kda": 48.72,
+    "pI": 6.56,
+    "instability_index": 24.46,
+    "gravy": -0.247,
+    "aliphatic_index": 68.24,
+    "n_class1_epitopes": 15,
+    "n_class2_epitopes": 10,
+    "n_bcell_modules": 2,
+    "sequence_publicly_included": true,
+    "sequence_path": "candidate/candidate_sequence.fasta",
+    "release_note": "The complete in silico candidate amino-acid sequence is included in the research repository.",
+    "architecture_summary": "460-residue multi-epitope in silico candidate containing the components described in the manuscript.",
+    "observed_sequence_sha256": "c4f45f77ac6093a3fcea74d8a2af82a41a4b86720ecc31edb3870661dde8ba7a"
+  },
+  "release_content": "docs/RELEASE_CONTENT.md",
+  "key_file_sha256": {
+    "candidate/candidate_sequence.fasta": "0a1dd50418f105df8a7ea1f9fa8aad9beb8f9fb09e7908bf968c0f9f39adc5e7",
+    "data/canonical_sequences.fasta": "7fc8ec16af01cbd51987d69c8fb9a8feef43046cc7d8d6f441e9a52a24935a8e",
+    "data/hla_allele_panel.json": "5089768d4122d0ae84db05403c697a512d42e65924d01fab727fe1fcaf5b5d07",
+    "results/cores_class1_scored.csv": "926e7a926c223c01c8ba6ec10387107a13469db916706dc18712fc48fceff9e2",
+    "results/cores_class2_scored.csv": "ef34dbb51c0c3f2438052269559cb21ffdfdd019a964bc408cbeda1c33aebc33",
+    "results/population_coverage.json": "dd4b0b6fc73737e259b87730cee8d93e97141528ed629f82f5a9b3d019721a6c"
+  }
+}

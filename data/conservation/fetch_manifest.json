@@ -1,0 +1,1478 @@
+{
+  "fetched_at": "2026-08-12T18:00:07.460491+00:00",
+  "source": "NCBI nuccore via E-utilities",
+  "query_names": [
+    "Andes virus",
+    "Sin Nombre virus",
+    "Choclo orthohantavirus",
+    "Rio Negro virus",
+    "Laguna Negra virus",
+    "Lechiguanas virus",
+    "Juquitiba virus",
+    "Maciel virus",
+    "Oran virus",
+    "Bermejo virus"
+  ],
+  "taxonomy_note": "NCBI Taxonomy maps several historical New World hantavirus names onto overlapping nodes; records are labeled by their own GenBank organism annotation, not by the query that returned them.",
+  "cap_per_species": 25,
+  "length_filters": {
+    "gpc": [
+      450,
+      1250
+    ],
+    "n": [
+      300,
+      480
+    ]
+  },
+  "segments": {
+    "gpc": {
+      "n_sequences": 107,
+      "per_species": {
+        "Orthohantavirus negraense": 2,
+        "Lechiguanas virus": 1,
+        "Hu39694 virus": 1,
+        "Oran virus": 2,
+        "Bermejo virus": 2,
+        "Orthohantavirus andesense": 25,
+        "Maciel virus": 1,
+        "Pergamino virus": 1,
+        "Blue River virus": 2,
+        "Castelo dos Sonhos virus": 2,
+        "Araraquara virus": 1,
+        "Choclo virus": 2,
+        "Maripa virus": 1,
+        "Orthohantavirus sinnombreense": 25,
+        "Convict Creek 107 virus": 2,
+        "Juquitiba virus": 25,
+        "Orthohantavirus chocloense": 9,
+        "New York virus": 3
+      },
+      "accessions": [
+        {
+          "accession": "AF005728.1",
+          "organism": "Orthohantavirus negraense",
+          "length_aa": 1138,
+          "sha256": "de85123a0e8e4dda929200dae30fa1fc1c2cc01b560f76a40f81297572cfb16f"
+        },
+        {
+          "accession": "AF028022.1",
+          "organism": "Lechiguanas virus",
+          "length_aa": 1138,
+          "sha256": "2a35edd8bb2a1d54788e837aff5e1928e2c6b1c2c7eb2a949955d8963538675b"
+        },
+        {
+          "accession": "AF028023.1",
+          "organism": "Hu39694 virus",
+          "length_aa": 1138,
+          "sha256": "c89bab818348aa85b57d373fa64e4114e0d2eaa1561f04ad0d545fae9e943d0e"
+        },
+        {
+          "accession": "AF028024.1",
+          "organism": "Oran virus",
+          "length_aa": 1138,
+          "sha256": "e65393e82a12a566bb8fd1496874ac36966ff058f22977c2f8bf40e4cb2f2e7b"
+        },
+        {
+          "accession": "AF028025.1",
+          "organism": "Bermejo virus",
+          "length_aa": 551,
+          "sha256": "5e380f08605f615a668bfa6030f2a1ea79a822f9f72ab4b083f601a9b449ab02"
+        },
+        {
+          "accession": "AF028026.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 551,
+          "sha256": "c6670f6ad5444bef8d89d18c07a101b265a8b0c7f486b228b90024428996b124"
+        },
+        {
+          "accession": "AF028027.1",
+          "organism": "Maciel virus",
+          "length_aa": 551,
+          "sha256": "47f602c1e86268b2be2fc93ef035e6337464faa2e5d2ef5f308d51d566ff6358"
+        },
+        {
+          "accession": "AF028028.1",
+          "organism": "Pergamino virus",
+          "length_aa": 551,
+          "sha256": "5cbafbac006ab81c63e7950be0457c2011f738ed64babdbf6d9ecc4cd4365a18"
+        },
+        {
+          "accession": "AF030551.1",
+          "organism": "Blue River virus",
+          "length_aa": 1140,
+          "sha256": "072f4fbb8b3dba65a7baf0e4d11ad3eaf9e24b5657ea78390ac212e7fe47ff02"
+        },
+        {
+          "accession": "AF030552.1",
+          "organism": "Blue River virus",
+          "length_aa": 1140,
+          "sha256": "5c4f6a26e8f4045285ee431e3d04046fe82eaccf73d9b6cb0ec1439ca62b4087"
+        },
+        {
+          "accession": "AF291703.2",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "02af2fcc71afffbe401cdeed3d38e2fdd6c2d08eec87c8e9e492b9dc9fbf4241"
+        },
+        {
+          "accession": "AF307326.1",
+          "organism": "Castelo dos Sonhos virus",
+          "length_aa": 578,
+          "sha256": "e777b1056a23021f9aff392322289608b313db11476fbbff3fbb5a43da2ffae1"
+        },
+        {
+          "accession": "AF307327.1",
+          "organism": "Araraquara virus",
+          "length_aa": 578,
+          "sha256": "9fd10cc5e2815840f87582dccd2cc8a218537a150621b36c64215bc7ab2f84cd"
+        },
+        {
+          "accession": "AF324901.2",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "45dd1df0908f4c7f901a7e7252df09aee4f1ec3501d1809326e45124ca6106f2"
+        },
+        {
+          "accession": "AY228238.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "eb5ac4a7af856483db8b1b1ab117aa2e40c7dc12fc7b699cec49c78181d082f4"
+        },
+        {
+          "accession": "DQ285047.1",
+          "organism": "Choclo virus",
+          "length_aa": 1138,
+          "sha256": "72a06143829c8b82993736a620b67848a493e4d2ff81605502c03964d52601f5"
+        },
+        {
+          "accession": "JQ611714.1",
+          "organism": "Maripa virus",
+          "length_aa": 1138,
+          "sha256": "76fad978c01bd7540d8349be94d90d64815dc70a022fa3781955feed5876e702"
+        },
+        {
+          "accession": "JQ690279.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "19df347e7e9d138ada2510e18cc3887b5732dd0b33a52a52b6eb47ce1de7ec3a"
+        },
+        {
+          "accession": "JQ690280.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "61741a4bf9a99cf21d5540fb54ba3abab134e1c65a49f174bd1ee4341d673e84"
+        },
+        {
+          "accession": "JQ690283.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "c69bcd4ff51685de435c0707471ca1b7e92df6464a4e72d40c94bab031ba0dd0"
+        },
+        {
+          "accession": "JQ690284.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "862e7857b71591713407ee8507b6c228e6cb0e2f6a0cb441e3fa7c63667f3c40"
+        },
+        {
+          "accession": "JX891630.1",
+          "organism": "Bermejo virus",
+          "length_aa": 485,
+          "sha256": "405b59c65adbc99bd29cf2ab3824697da020625e802f53dfba706f4abf3d260e"
+        },
+        {
+          "accession": "JX891631.1",
+          "organism": "Orthohantavirus negraense",
+          "length_aa": 485,
+          "sha256": "ef78864c68ee4e0307f408d5ce5932726ba527621a022c44a01e2919045ed119"
+        },
+        {
+          "accession": "JX891632.1",
+          "organism": "Oran virus",
+          "length_aa": 485,
+          "sha256": "752e961d049587d774ac92e014744507aa5e855d446dfb841dfc7bf62b7591a7"
+        },
+        {
+          "accession": "KF537002.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1143,
+          "sha256": "a2736f17b0aa9430f9bf0c4e116eee335110743a6ecd78819690468ccb342bdd"
+        },
+        {
+          "accession": "KF581135.1",
+          "organism": "Castelo dos Sonhos virus",
+          "length_aa": 558,
+          "sha256": "cbecdc9003cb7fc24db98bd3b223c71737257baa5767cdbba8d995866de50916"
+        },
+        {
+          "accession": "KT885045.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "a6b9e4e7e3dfc7f99d924480a86337e0248de23aab089814c26c65d348febd37"
+        },
+        {
+          "accession": "KT983772.1",
+          "organism": "Choclo virus",
+          "length_aa": 1138,
+          "sha256": "4bcefbfcd57639063f896e28553f59c115243e4f67e10f08b05529f1aa51c0fb"
+        },
+        {
+          "accession": "KY604962.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "bf342ccaeeed83965fca164fe677511aa4a4ad22f0d6b0b699b6eeec933f1401"
+        },
+        {
+          "accession": "L25783.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "d1a0be8b290f7d0c9acd0179d2e3163d64ea8bca0b7c00bbde351d4532751134"
+        },
+        {
+          "accession": "L33474.1",
+          "organism": "Convict Creek 107 virus",
+          "length_aa": 1140,
+          "sha256": "db6e251d9658e0d3c5e5d476c35d24afd657d0da855ae6bcf4834f95cda616b2"
+        },
+        {
+          "accession": "L33684.1",
+          "organism": "Convict Creek 107 virus",
+          "length_aa": 1140,
+          "sha256": "214d77d06a0c77c12736152e563a91c0bda04deec294990ccd48f0c501752ec5"
+        },
+        {
+          "accession": "MG717392.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "caf9e56d374c56c98ca784142a270eec85a2ad0113e75ec0145006d9f5991e2e"
+        },
+        {
+          "accession": "MK059782.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "bee32d319604219e1ed92a862dd3e7944d82f867485e0dac0961b219c24bafd2"
+        },
+        {
+          "accession": "MK059783.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "07bb324df188aa74a5a5adf4584c4dd19db1b1b9f7147a0d75b9fc31f9801493"
+        },
+        {
+          "accession": "MK059784.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "68cc78f724a34db1676988b1e6a6eec21451c86705f1ed6c53afaf1054aec124"
+        },
+        {
+          "accession": "MK059786.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "51e7b159b11549be3ea21fb65a771d8ccb3fded3035368b4914e6288da9e03f7"
+        },
+        {
+          "accession": "MK059787.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1131,
+          "sha256": "717f1fbd25f457d6eaca791e9a56812ef52d0a91cec5c7e55a44987dc9888c39"
+        },
+        {
+          "accession": "MK059788.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "233a377ffb6936e61dbb9517ebf5529e8f80843c60653c765ea020b9c8a2112e"
+        },
+        {
+          "accession": "MK059789.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "309c11df0e918f8de48651a9d38ec8e3b5371eba3301d971618d97a924b1a310"
+        },
+        {
+          "accession": "MK059790.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "d3432d7a03a514172bdb4692405d8905db3b000a3372db55e181535f93c7de3a"
+        },
+        {
+          "accession": "MK513885.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "0610691dfbb26c88686c667b6fbf50f8c8e07d8ee0df3d5b525f51f67b5b379d"
+        },
+        {
+          "accession": "MK513890.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "85ec4ab4cfac41a1046c8f8f7345831b58d70fbd3400c8847ddcf5373b6c1eaf"
+        },
+        {
+          "accession": "MK513891.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "7ef94a96822a43a7881ae2498622bdf39364842e15891ddd25e096e615583a31"
+        },
+        {
+          "accession": "MK513892.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "d233a3394a24696ac312f6d5a5455ee06ec255e20e3cc4e80e7f60242487c76c"
+        },
+        {
+          "accession": "MN095799.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "31eb931213ae6e48118f1fd66aeb4221ede82da53692924e107573d45c6cd087"
+        },
+        {
+          "accession": "MN095800.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "ed23b09dc0dc71f208522d21a4146e73eac452cc96b2cd9f6caa9df24bcd10e5"
+        },
+        {
+          "accession": "MN095802.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "88d91ea5475cba2eba09e2452591434ed1d6ca1f8b788b0cb71bd86b3e6bc06f"
+        },
+        {
+          "accession": "MN095803.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "1a2167377475c690c5c3ae956e40e2d995cb9659118052c9fe85f1a73e372872"
+        },
+        {
+          "accession": "MN095805.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "098e0a7a65ee83a94e861c71b723dc5d4d5fa706b90b88857ecaaebf5c6757fc"
+        },
+        {
+          "accession": "MN095806.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "57567f006b5a3ae370fe7edd3b895d01d025e8205c8bc11a7f67535f0e367bd0"
+        },
+        {
+          "accession": "MN095807.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "21cc374baaea5da0064fb9130a335573f8b44f436feb5b54ec083f1a4c1350c2"
+        },
+        {
+          "accession": "MN095808.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 1138,
+          "sha256": "796696682caf360566debd51fe6269707d006b0096ca8153b469733d1ea02ae8"
+        },
+        {
+          "accession": "MW177660.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 673,
+          "sha256": "90bff7687c77f2105482c45508c89737b352b1ea401ef88ded8603cbc5f47dbc"
+        },
+        {
+          "accession": "MW177661.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 673,
+          "sha256": "4c6bf8c9fa3737ef5c528227ac468b029e43340d9913bac2b3b8755979d468f7"
+        },
+        {
+          "accession": "MW177662.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 673,
+          "sha256": "313ea28ca73a7da815b7e4c20b44fbf940c29908d2d11c1c7b3f1ffb2a403664"
+        },
+        {
+          "accession": "MW177663.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 673,
+          "sha256": "5af21bf22a27c772245dd95b0e14b06f4835e5f2852fcf90fde485cd9bf8ae4f"
+        },
+        {
+          "accession": "MW177665.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 673,
+          "sha256": "95ee941c1434d54021dcd241534599627e0cd9b0096bb668b69276541f16bf9b"
+        },
+        {
+          "accession": "MW177668.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 673,
+          "sha256": "7b1e5ecf8912170da47497c63a3b554eefa1a833b60ccdd51efb5df1304ca7b6"
+        },
+        {
+          "accession": "MZ400487.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "10e00200c6ffaf5463cd871d5d4395cb1ae7bcb907fb27480b786ddda9803e1c"
+        },
+        {
+          "accession": "MZ787940.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "dcc5cf49064f39ec6cea1ee21aae16002437390480d7474e68fa96291b810dad"
+        },
+        {
+          "accession": "MZ787944.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "4e811e6859f07b3c7689db78f4ccd83c2855a458972f62553f2753e011463d9b"
+        },
+        {
+          "accession": "MZ851450.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 517,
+          "sha256": "28f9401145eaa1423f31f8c09e69ac92bb0dd5feeebfdc413d302871e9427fac"
+        },
+        {
+          "accession": "MZ851453.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 550,
+          "sha256": "a529276005c9c53094c4075811fa2f53ef2625455a2b9c67df05862282617297"
+        },
+        {
+          "accession": "MZ851456.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "12a5925d7037d4fb9bfa1e066bd25128b21ab3f7cddcee3be1447a5af5968702"
+        },
+        {
+          "accession": "MZ851459.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "c3ba98bca72bcc28384c0afb122ac853711d7800e50fba7c95c26dcea1f4bbee"
+        },
+        {
+          "accession": "MZ851462.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "100877be21ffa09f9c6f3d9144cfc5273bda19d2cf206302a38bcb19be3dfd32"
+        },
+        {
+          "accession": "MZ851465.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 1140,
+          "sha256": "fcb7f1cd6e2dde204403963ad59679e17e4f434f1c6d37aea7b9c19ba39e42b5"
+        },
+        {
+          "accession": "MZ851468.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 985,
+          "sha256": "232d6d5dac47728a269b92456bbccfc7f640a768abd1aa787c035f0c0a4dd081"
+        },
+        {
+          "accession": "MZ851474.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 990,
+          "sha256": "72280e62dd7acdf17f2dc5ccdb387e3a7676624189968ad0a019c60a4e68c99c"
+        },
+        {
+          "accession": "OR184122.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 1138,
+          "sha256": "c619e056649a0344c65072a47df87a5bc92e5865de3b845b0da668ed26b04d8c"
+        },
+        {
+          "accession": "OR184123.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 1138,
+          "sha256": "ce9f0cdf2a51673500b80468378c6ad032f8f9b8defe9fb6b53842f41abb1d44"
+        },
+        {
+          "accession": "OR184124.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 569,
+          "sha256": "a3033a46f4347cf73724aa2192ef7f284a45070e96a1195ad0029271c6ce3145"
+        },
+        {
+          "accession": "OR184976.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 1138,
+          "sha256": "fd8080358680f81df41a94200e3431002acf78c16d0fbd837f422130bcfe0ba2"
+        },
+        {
+          "accession": "OR184979.2",
+          "organism": "Juquitiba virus",
+          "length_aa": 1134,
+          "sha256": "ab20b9a7c18d5275852503b3e8bbda863a3107a250f3e35f240c62e6978ecd16"
+        },
+        {
+          "accession": "OR184983.2",
+          "organism": "Juquitiba virus",
+          "length_aa": 1138,
+          "sha256": "52137dcdf15565d3ed16d04fd1f7163f511ea3cff6512521326a8b43e72b0c10"
+        },
+        {
+          "accession": "OR184984.2",
+          "organism": "Juquitiba virus",
+          "length_aa": 1138,
+          "sha256": "145ac1003270bf1d45af105407324c01c78ea31ac06ffd5764b9e7f90e5eab5f"
+        },
+        {
+          "accession": "OR184985.2",
+          "organism": "Juquitiba virus",
+          "length_aa": 1138,
+          "sha256": "bdfc6145c2ecf806b9ce91bec21dd4331a6397627f406551437cd6cf50d78c87"
+        },
+        {
+          "accession": "OR184988.2",
+          "organism": "Juquitiba virus",
+          "length_aa": 1138,
+          "sha256": "31592d0793f2af362a6b4bc2642afac767ab017c740875d05dad2781cfa4171c"
+        },
+        {
+          "accession": "OR184991.2",
+          "organism": "Juquitiba virus",
+          "length_aa": 1138,
+          "sha256": "e98aaa815b0d91d98a5b338ab23532dd001233b71c264a1dce68830258bac729"
+        },
+        {
+          "accession": "OR365537.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 1138,
+          "sha256": "40969d3bda6ce99e591b1dcd2ec286ced8615fe1b4c18948b9ba1ab6d8d55960"
+        },
+        {
+          "accession": "PP210994.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 1138,
+          "sha256": "9f610c693611bc5a289f98a67ee839de72dd1a9557b2975e7b4fb3866d5fbf55"
+        },
+        {
+          "accession": "PP210997.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 1138,
+          "sha256": "48170ac02f961705d220bb8dca695da73895019f60bc9c825182b3da5f08eb12"
+        },
+        {
+          "accession": "PP239359.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 1124,
+          "sha256": "945d46c7460a667a4ebc861dbd26c4221fa914ca6d618e363a3a807c33ce60b0"
+        },
+        {
+          "accession": "PP239362.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 1079,
+          "sha256": "e49faba67aee9e5b114270126d75112e584b6105c1258163da632ae2ac21636c"
+        },
+        {
+          "accession": "PV052295.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 1086,
+          "sha256": "81052dff866aa1c4b0f99e44688739e6a6ac3fd016497df84449e854251cd61b"
+        },
+        {
+          "accession": "PV052296.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 1086,
+          "sha256": "3d1dc95d3760c8e067c3a7b4ab514eb005ac9af3699f94b68d2a5ead74b0a791"
+        },
+        {
+          "accession": "PV052297.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 744,
+          "sha256": "1255cba6e8d92bbe28e710294bc96331ebde92892e06d23662d703966d5d611e"
+        },
+        {
+          "accession": "PV052298.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 1086,
+          "sha256": "411a33a660444e5a8c9a0a7208f0d29686822225f6d8474ddac776a79b7bbe7e"
+        },
+        {
+          "accession": "PV052300.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 739,
+          "sha256": "7759ea8ecc4a3d9a3ab4e4846acbfa1e8c034409597227ba64fa272db3983368"
+        },
+        {
+          "accession": "PV052303.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 919,
+          "sha256": "e894ee663f8cc9207591de5a2102d3b8ef66b5fb01c2df0977091452de547c1c"
+        },
+        {
+          "accession": "PV052304.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 1086,
+          "sha256": "1cad630a8687fac1e48181fa9e0155d488a179aecd3b645c56846905b1a8eb96"
+        },
+        {
+          "accession": "PV052305.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 1086,
+          "sha256": "3de90cf1affd7cf324e0176f2c589ea8c1e96f3d30144844b606e9504bd71653"
+        },
+        {
+          "accession": "PV052306.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 665,
+          "sha256": "45992ab86ebc08c4c322107e8b898aabbdac57f08b15b46339b8b214d4b5c0e3"
+        },
+        {
+          "accession": "PV052308.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 885,
+          "sha256": "e249131441daac16c58d4d3930ab4ccdee70b4e7201664f2447f07587f32ad42"
+        },
+        {
+          "accession": "PV052309.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 665,
+          "sha256": "dd2df9d31e9b4226fa3fdc0f241498a6736b82eb32018180ac96925fad10a43b"
+        },
+        {
+          "accession": "PV052312.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 1086,
+          "sha256": "e69f9eb0ed51c61c35abbff5ec3de053c65ff002d68cb53b1eb022cb61dea86d"
+        },
+        {
+          "accession": "PV052313.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 1086,
+          "sha256": "e5dbb9017d49b9f9579d056ce10ef421521eb3d22b083152ff44b11faa31c746"
+        },
+        {
+          "accession": "PV052315.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 876,
+          "sha256": "f4f209ca5fed0bacc73d60fa2fff0d9417dbb7f33a55ca9d98ea218d59c1114c"
+        },
+        {
+          "accession": "PV052318.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 876,
+          "sha256": "15db811276a8cea3a523bcf4d2488e8e2269b740b3468311e79afd41f0b3558a"
+        },
+        {
+          "accession": "PV544290.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 861,
+          "sha256": "5a6894c91469b6438a276bca54c37f803bcb6e3e57df7a1696a9057a6323ae34"
+        },
+        {
+          "accession": "PV544291.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 861,
+          "sha256": "bc7ffcca780cd849f7ba4e88ed394fcba0ea11d92fd5bc335e19114006addddd"
+        },
+        {
+          "accession": "PV544292.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 861,
+          "sha256": "d617092e88f72a632f3febabc65e23622cade917751661ef27f6e2c50a53f320"
+        },
+        {
+          "accession": "PV544293.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 806,
+          "sha256": "9a1bd944eb187e9c5db5723d948ae53f7e97466f6a998f687a6cb40b9cc6c40b"
+        },
+        {
+          "accession": "U36801.1",
+          "organism": "New York virus",
+          "length_aa": 1140,
+          "sha256": "bade475fea46fc3873a8ee70c6d3bd1a4727ac91ba7783c71f7a538016ee6892"
+        },
+        {
+          "accession": "U36802.1",
+          "organism": "New York virus",
+          "length_aa": 1140,
+          "sha256": "50221cf842f72ec223db721b0a13828139e2e7ee1641ef9a4219365d8062c19f"
+        },
+        {
+          "accession": "U36803.1",
+          "organism": "New York virus",
+          "length_aa": 1140,
+          "sha256": "fe655ced06ec06d4940663ec277dfa7fe656c8fe8674c948855e1b13946edd7b"
+        }
+      ]
+    },
+    "n": {
+      "n_sequences": 122,
+      "per_species": {
+        "Orthohantavirus andesense": 23,
+        "Orthohantavirus negraense": 2,
+        "Orthohantavirus sinnombreense": 25,
+        "Bermejo virus": 1,
+        "Lechiguanas virus": 3,
+        "Oran virus": 1,
+        "Maciel virus": 1,
+        "Pergamino virus": 1,
+        "Choclo virus": 3,
+        "Neembucu hantavirus": 1,
+        "Juquitiba virus": 25,
+        "Araraquara-like virus strain P5/Cajuru": 1,
+        "Tunari virus": 1,
+        "Maripa virus": 3,
+        "Castelo dos Sonhos virus": 1,
+        "Araraquara virus": 1,
+        "Convict Creek 107 virus": 2,
+        "Orthohantavirus chocloense": 25,
+        "Four Corners hantavirus": 1,
+        "New York virus": 1
+      },
+      "accessions": [
+        {
+          "accession": "AF004660.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "bf936547e824a0dbe39f48913cdc93b489f4c78de4000f976913c18e4ce7c06a"
+        },
+        {
+          "accession": "AF005727.1",
+          "organism": "Orthohantavirus negraense",
+          "length_aa": 428,
+          "sha256": "97194d226aeac25b769e84376999a9734f16503c6e5df8d13da15718e160c4fb"
+        },
+        {
+          "accession": "AF281850.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 426,
+          "sha256": "d4f7cc19cb8a48135f91e6daff81c343e47479d318e72cc66e4846cbb7cfe826"
+        },
+        {
+          "accession": "AF281851.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 424,
+          "sha256": "b97fb7ee4e3136a77c20f06ac7244d55def2f63736fc32d0cb72c287e2561545"
+        },
+        {
+          "accession": "AF325966.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "2870b211c5d8c045cad624e6ccf9f9e6884b055c3dc8629903c031fc30b56494"
+        },
+        {
+          "accession": "AF482713.1",
+          "organism": "Bermejo virus",
+          "length_aa": 428,
+          "sha256": "14a0f4240b81fc2362cceb863fc909e43b430700b55cae18543950937ee4c3c5"
+        },
+        {
+          "accession": "AF482714.1",
+          "organism": "Lechiguanas virus",
+          "length_aa": 428,
+          "sha256": "d069958567fa782ab64c19a5840e9ca20ab68556e141761d5475f6fb6447efa9"
+        },
+        {
+          "accession": "AF482715.1",
+          "organism": "Oran virus",
+          "length_aa": 428,
+          "sha256": "52772a4326d89df30de9ba8377e947610c47cd65f357e9ee0f729ad6976fa965"
+        },
+        {
+          "accession": "AF482716.1",
+          "organism": "Maciel virus",
+          "length_aa": 428,
+          "sha256": "81421e921ad216425cb8115c8115729a2589a8606652ee51cc2630ff925f082c"
+        },
+        {
+          "accession": "AF482717.1",
+          "organism": "Pergamino virus",
+          "length_aa": 428,
+          "sha256": "aa089ea1d03bfa6cd36107ffe8470c9f387e8371854bc0a615f84bb8a6a48821"
+        },
+        {
+          "accession": "AY228237.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "31779987f9a3ac54300ebb40bc6606cebccda43891dfd57259b9ea023363bb46"
+        },
+        {
+          "accession": "DQ285046.1",
+          "organism": "Choclo virus",
+          "length_aa": 428,
+          "sha256": "d13230236dfe9b3bd7b3fcaea516217f18e095288c4e98a48d8f4cff6ede00fa"
+        },
+        {
+          "accession": "DQ345763.1",
+          "organism": "Neembucu hantavirus",
+          "length_aa": 428,
+          "sha256": "a670ad46c6b987efe4813e6d93e1256787e00f5c80807cbe09196d07cc4fe092"
+        },
+        {
+          "accession": "EF492472.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 301,
+          "sha256": "41e81630b3a6b1f0a1670ea675c1bc52f196f81c9555492b47b65c7ed26a558f"
+        },
+        {
+          "accession": "EF571895.1",
+          "organism": "Araraquara-like virus strain P5/Cajuru",
+          "length_aa": 428,
+          "sha256": "51b2b446a74158a5f924b6b93af696d8bad730fae34e2c570e3cd8b50ec01cef"
+        },
+        {
+          "accession": "EU241689.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 308,
+          "sha256": "3e497cd7528941f78c2b94fd68acca48cee6be30b2e4a43e38ed1ee30f41bf0f"
+        },
+        {
+          "accession": "EU241690.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 314,
+          "sha256": "13799cd5f86398904323ab271ffef9cecf53d58c6934743c8bbc216ebfa4c6d6"
+        },
+        {
+          "accession": "EU241692.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 314,
+          "sha256": "b92e3b9eaeeeb638e535af8a95e74a34049dfa39c5f083630129c61525e74990"
+        },
+        {
+          "accession": "EU241694.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 314,
+          "sha256": "0e98af74e8c79b8e2d45d1fe5baade3f05206db299adddc0be00e33a9cd3f6be"
+        },
+        {
+          "accession": "EU373729.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 301,
+          "sha256": "6fbff5d1f870e7f461f7e10c7fd49219750a8f0266aee97ad24b9fa409387e8a"
+        },
+        {
+          "accession": "EU373731.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 301,
+          "sha256": "5e4aec9344906334bd78400f5b597dcab32b701e771ac319c0de26cbabcd174f"
+        },
+        {
+          "accession": "GU213195.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 333,
+          "sha256": "8c90092082477595e806465c35fd836e3d5ef7c105609463a5b1f326cbe1b16e"
+        },
+        {
+          "accession": "JF750417.1",
+          "organism": "Tunari virus",
+          "length_aa": 428,
+          "sha256": "d2afb4c294f781bba522b50bfe3370fea40a3e1d74201f9af8c0c4bf22e35713"
+        },
+        {
+          "accession": "JN982967.1",
+          "organism": "Maripa virus",
+          "length_aa": 428,
+          "sha256": "d88cb9432912f811c8ced480ef123edabf2fa65f221abd4875330596434083ab"
+        },
+        {
+          "accession": "JQ690276.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "2e4886ff2742c060af0fec6d21998f4aa5f2fef4c6ac6dce4c2fe0fa61a4ffa8"
+        },
+        {
+          "accession": "JQ690278.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "8045a31f910876c346b95f793a14172f6211f35ff693898f55f2d0cfe9933371"
+        },
+        {
+          "accession": "JQ690282.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "dcc086f45fb00c3cdbf82dfdece45b6a12a9ef542ee5355755ca84a29d2bc1d7"
+        },
+        {
+          "accession": "JX173798.2",
+          "organism": "Juquitiba virus",
+          "length_aa": 428,
+          "sha256": "3ed84aaee77bd82c42505cd5a91878cfb21d198776c09e244d084a58953ab328"
+        },
+        {
+          "accession": "JX173799.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 311,
+          "sha256": "f6b2c579fc0f9f772ab13abfd4b83aa1edab29909dfbc6858ece0f42c33031eb"
+        },
+        {
+          "accession": "JX173802.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 311,
+          "sha256": "c125024b20eaa3245f0a4cdccd4060a46546a0f6916eafc09f88f0c1d728e79c"
+        },
+        {
+          "accession": "JX173803.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 311,
+          "sha256": "64241e3ccc89975dcc75998d2e947386d1ae6097ef13605d949691a8e9d63af9"
+        },
+        {
+          "accession": "KC422344.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 428,
+          "sha256": "c8ce85a79726db0e404913f1479c897a3cf3c26c54f0e032d1f62ca70f497dfd"
+        },
+        {
+          "accession": "KC422345.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 428,
+          "sha256": "fafc130a1014c3d58dbffbd4b42224ce767151cec3744ff344f2db17eac3c742"
+        },
+        {
+          "accession": "KC422347.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 428,
+          "sha256": "70d7ace0c85b499a394372b84d1c00abddc0f17d58e7776bbe4fedc96c011711"
+        },
+        {
+          "accession": "KC876041.1",
+          "organism": "Maripa virus",
+          "length_aa": 428,
+          "sha256": "ee400974bd481f8bd6eb601d6313ce3cf29e503723c519a649842d2d075dc6de"
+        },
+        {
+          "accession": "KF581134.1",
+          "organism": "Castelo dos Sonhos virus",
+          "length_aa": 356,
+          "sha256": "16db3b5b1e927a01216bcdd687ada5a68f7497d913f6149d3351d30534b97b85"
+        },
+        {
+          "accession": "KF913849.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 428,
+          "sha256": "3aac31ce045e571a5aebf93cedfd7e5ad09c36937f08d8f7702db9197c6935eb"
+        },
+        {
+          "accession": "KM597161.1",
+          "organism": "Choclo virus",
+          "length_aa": 428,
+          "sha256": "c26ed30811d1170dac204fb74c231821dc881e33399934cfbf8f8a2ca0823351"
+        },
+        {
+          "accession": "KP202359.1",
+          "organism": "Orthohantavirus negraense",
+          "length_aa": 428,
+          "sha256": "db876b9a8a80c7cd258a73ed5bb025a2e0a7904b082756913a2d731d824f9e9a"
+        },
+        {
+          "accession": "KP202360.1",
+          "organism": "Araraquara virus",
+          "length_aa": 425,
+          "sha256": "394914cf52cf2f999c421c3e07fd3564b6c1040c9a4bd3f886255ae82d59a954"
+        },
+        {
+          "accession": "KT885046.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "e67b243da669e16e3ce176fbc908020ee57330ff92bce1e8728042c1033f2c11"
+        },
+        {
+          "accession": "KT983771.1",
+          "organism": "Choclo virus",
+          "length_aa": 428,
+          "sha256": "c44d70a2a60598275e0c52884e9f38c6cd7096e3496fedc9ddc1663617d4a517"
+        },
+        {
+          "accession": "KY053844.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 428,
+          "sha256": "3c50a1ae51cf02af49d875445d9e87a25d6f7886b8b14300eaa8f991c5dd52bf"
+        },
+        {
+          "accession": "KY659432.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "b500c5ea21945f85b5f5f82e5e29bed314bfc37d30ce358df1c3d3a1b4bbf73d"
+        },
+        {
+          "accession": "L33683.1",
+          "organism": "Convict Creek 107 virus",
+          "length_aa": 428,
+          "sha256": "3c74ebd8e5a86e135950a946d16f01f80802a2b55c705a6a605a17440dda0306"
+        },
+        {
+          "accession": "L33816.1",
+          "organism": "Convict Creek 107 virus",
+          "length_aa": 428,
+          "sha256": "fff4b11e73e20cb4c77e062c20ee154f04c1eaeb911a68db8796a7c6e24e6b06"
+        },
+        {
+          "accession": "MF101864.1",
+          "organism": "Maripa virus",
+          "length_aa": 428,
+          "sha256": "91e94c20ed8ac0eabaf04e2445f180880c48426d7a587c0b59dd03f10c079dd9"
+        },
+        {
+          "accession": "MF405146.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 428,
+          "sha256": "7c3fd30bc52327151306709814a031240fa96af938201e59a4da7352f02c7348"
+        },
+        {
+          "accession": "MG575412.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 327,
+          "sha256": "9666074899e33e76aa2e4bbdbc52a4445e0dbefec7f7a8e3c77e353c01d2000f"
+        },
+        {
+          "accession": "MG717391.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "0de53c4a0a733073b62b209dcdf8e0e092295682f7907a7e39f3c2f9cec14dbb"
+        },
+        {
+          "accession": "MN258254.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "094a2d5c35c7c11e97d5935fd4e7f46fa34d5fbc274da307d26957bf98705c2f"
+        },
+        {
+          "accession": "MN850086.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "3f9c9c091a42a73d5c903fe90917942a4e04ec4ddd7e010617cdb947f219f654"
+        },
+        {
+          "accession": "MT572413.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 426,
+          "sha256": "9e15df9e00cdd5c054d7f86df3332bd059076baa2211ac53a9ad83e37a85ebf6"
+        },
+        {
+          "accession": "MT572414.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 402,
+          "sha256": "ec0002dd7d8c9494e7362296f93953a0deee21441ca8ce570ead1aecbacecd15"
+        },
+        {
+          "accession": "MT572415.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 399,
+          "sha256": "8a65704a66553e7c1374bdbec0cdd703d70916f5bd79f6f8f3c381828d6ca247"
+        },
+        {
+          "accession": "MT572417.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 419,
+          "sha256": "1f0ec13fa807435bd1d1c97060d6fbef136c1327d38d7cd0f0c3c1b3c06e2b5b"
+        },
+        {
+          "accession": "MT572418.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 405,
+          "sha256": "1cc79a483e8794a371f2b051db29f14d49081f2b5eebaa711f9f466375c48044"
+        },
+        {
+          "accession": "MT572419.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 410,
+          "sha256": "b1769f2cbdb6d1eaf3fab90454fdd540f6b7d128336d20cd8938138547d81c98"
+        },
+        {
+          "accession": "MT572421.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 349,
+          "sha256": "c593f424520f09a58cec3eb87255994742a90ef96e60bae8e78271c80c202b6e"
+        },
+        {
+          "accession": "MT572422.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 418,
+          "sha256": "10fdf08effb0e7928eb2f087a0ef055cc76a64a065ee9fb2b8b4d56c328e1cf3"
+        },
+        {
+          "accession": "MT572423.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 416,
+          "sha256": "b862b8fb83428f114d3a6767a35361f4de20eb33bdc6e8ba5acb0e24f467d0de"
+        },
+        {
+          "accession": "MT572425.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 420,
+          "sha256": "904b47de1c9699e8e09cae070a79fd63a05bd2b85c795a9637eea7661d626187"
+        },
+        {
+          "accession": "MT572426.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 417,
+          "sha256": "2f5111f965cb1193de0730613cc0483e59a422de4a9b58e3354d596b9b89ea7c"
+        },
+        {
+          "accession": "MT572427.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 415,
+          "sha256": "b559e7d4cd6b3596cc2bc234bfccf8711b4b19bca1c8bb398037551d2cbfbd10"
+        },
+        {
+          "accession": "MT572429.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 418,
+          "sha256": "11e5371a31ec47ca812f0bf20b1b446427b5034a5985e12219793878385c6b96"
+        },
+        {
+          "accession": "MT572441.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 332,
+          "sha256": "f7e252a60734e51a46dd7662f426030a4bf13d41d9a6298baa610c8a8ad38f5b"
+        },
+        {
+          "accession": "MT572442.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 418,
+          "sha256": "a15ba79e494f7ac17083dff73fdac5512b8c32b3e0c8c4931fb39eea53a9e6fa"
+        },
+        {
+          "accession": "MT572443.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 355,
+          "sha256": "d7d1002fb97c42d2003cdea5c3b9283adb489485e9b889e9fa981369d4ea1e7e"
+        },
+        {
+          "accession": "MT572444.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 307,
+          "sha256": "3c55f3e399ddc97f3e9157e414267ea5e01d51cf5f44ce0b1e3f2f7285eb2591"
+        },
+        {
+          "accession": "MT572445.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 357,
+          "sha256": "66ca341be4664ac5f4f070762fda5791b3bf08cb515e7be77aa3b8c306ea1d66"
+        },
+        {
+          "accession": "MT572446.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 418,
+          "sha256": "1eabb19f46267ff34b2fe25aef8d16fba451494f5308dc471768fad94e73b123"
+        },
+        {
+          "accession": "MT572447.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 427,
+          "sha256": "482805d8648d2c02440093220db4522b3aff6bc49734d63ff025621a2b697bba"
+        },
+        {
+          "accession": "MT572448.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 413,
+          "sha256": "ae7bc3a131bc07d2148985120002955b15457f1de0a977ee7e38fe03bb81eaa2"
+        },
+        {
+          "accession": "MT572450.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 422,
+          "sha256": "77940f7c320d4666e785280d1fe8cf978faac7111dcad792538a34b42a336df7"
+        },
+        {
+          "accession": "MT572452.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 429,
+          "sha256": "92c5a920afe44e3e8ccbfce0a8a2fd523d62a4053eac1934fa3d0241a649278b"
+        },
+        {
+          "accession": "MT572453.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 428,
+          "sha256": "442af92ec0ae0e37fc89c4f4f300a97bb45413c12efc9d39c670351c3c817e4e"
+        },
+        {
+          "accession": "MT572457.1",
+          "organism": "Orthohantavirus chocloense",
+          "length_aa": 428,
+          "sha256": "cbd5039477f496ef650b6f77faa9a093baccc7d854d43ffe7ef2b8c3f7d3e584"
+        },
+        {
+          "accession": "MT956618.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "bd6681eac301f6d64daadf8949d06a0de68f8e7590d60d56fe34ad4ec4c064c1"
+        },
+        {
+          "accession": "MZ400486.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "11c8be3ec148625a755e8463654e3c785368ad30cc9b6b4d58dc19de0fa6cdd9"
+        },
+        {
+          "accession": "MZ787939.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "7730726c0e93017b40f2d3ccf9017f6121845f412c56d37e97a68b587f74b739"
+        },
+        {
+          "accession": "MZ787943.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "331260eef3aa122590678ff524cc860b49d7b1cee5cd00d1b7e612b4c9e269f3"
+        },
+        {
+          "accession": "MZ851455.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 432,
+          "sha256": "5b8df2d24a972902346d37d40e8a947c505758a2ca878ef9c19de79d86a2e126"
+        },
+        {
+          "accession": "MZ851458.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "174500ac44ebde5bd469a9be5d6f62edd2596aafbe5ba2990a66baceae67e1a5"
+        },
+        {
+          "accession": "MZ851461.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "ec89de00f2536695e8a51d6770af86e8649ad40e5e8b46353e697cad242fb29f"
+        },
+        {
+          "accession": "MZ851464.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 306,
+          "sha256": "7afa7ee32f6f0200aa78fcff477b655e751663712fb380d9c8c1e89fab25ea60"
+        },
+        {
+          "accession": "MZ851467.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "ed7c5c88706c25636a05600b71ac47c19da123421813070dc3e0468803ec49f3"
+        },
+        {
+          "accession": "MZ851473.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "7f0a680b3c1f6f38c29d6d7999d023b9d1cc50cdbaa4776c33eefec1d816e610"
+        },
+        {
+          "accession": "ON544080.1",
+          "organism": "Lechiguanas virus",
+          "length_aa": 311,
+          "sha256": "2ee1d0b58584dc2e905d5e051bcfe0930fd74021c3e40a702ce7dc7ada6cf373"
+        },
+        {
+          "accession": "ON544081.1",
+          "organism": "Lechiguanas virus",
+          "length_aa": 311,
+          "sha256": "0c299d4b42d7ce07abbb882fb7b130e7933649a78c20800b723031f17eb2d650"
+        },
+        {
+          "accession": "ON571575.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "7e81ca2eb59ee621772a43401dd97bb9d17ff39705aa0f109be5914109641f26"
+        },
+        {
+          "accession": "OP555722.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "87a9fff7ddee107641cf2c3d2a9cf5f69028d958d4e102c8ad6b582f87888285"
+        },
+        {
+          "accession": "OP555730.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "89f74ca8d780c4a7567f25680681f8c2f62a7977429819ff77b27983514042d4"
+        },
+        {
+          "accession": "OQ092245.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "61e667c979d4005422144ae0b7016c632fe45ad54155fcb9c65373467579ecfa"
+        },
+        {
+          "accession": "OQ999105.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "be9f155b4599a4abd488a43512e759532f5b80e90920cf68858ee0de0f8c158c"
+        },
+        {
+          "accession": "OQ999108.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "f2c0cd1c40d43b4566e5725832dae392f91ac9cab061ac67f289b4723af02ddf"
+        },
+        {
+          "accession": "OQ999116.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 413,
+          "sha256": "5faa8789fb188c73bf1b53c419ca501361c7a8e0dc166f14df171aba958654bd"
+        },
+        {
+          "accession": "OQ999121.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 430,
+          "sha256": "6920f0134eb2119c7e0755d01a79368a4c11ecb735be9699a325c238783f46c9"
+        },
+        {
+          "accession": "OQ999123.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "056fe55eea84b635444239f46c7e4cf6dddb6d6c87f298a2b7547036b6211b22"
+        },
+        {
+          "accession": "OQ999131.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "9e8963161ff4e1d1c94332b2d1a3127ad7548d7cba31a47a54d8bd9b1a717844"
+        },
+        {
+          "accession": "OQ999138.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "221101c63e550231bc8cabb2eb0eefe7edf81b0c1ed4d00e4443b7e29a222da6"
+        },
+        {
+          "accession": "OQ999140.1",
+          "organism": "Orthohantavirus sinnombreense",
+          "length_aa": 428,
+          "sha256": "e8da0adba02982902a5db2e952b77a7513ef7adf6df826cce3b633972a1dc1b8"
+        },
+        {
+          "accession": "OR184960.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 428,
+          "sha256": "d8819ea36d66c98afd435fd54c6eec6291b09c8a546488cb88a085df9aaaaaf3"
+        },
+        {
+          "accession": "OR184961.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 353,
+          "sha256": "ec2ebd687c796f8a39f6fd0bc969e4685a811ae30f09ac100e5eb4552fb00f16"
+        },
+        {
+          "accession": "OR184963.2",
+          "organism": "Juquitiba virus",
+          "length_aa": 354,
+          "sha256": "6da44db2e845219be777eb0bcd98552ca1687835623b64d82f2db8260da79fc4"
+        },
+        {
+          "accession": "OR184965.2",
+          "organism": "Juquitiba virus",
+          "length_aa": 421,
+          "sha256": "306736ab21ea3cbfea307c2876b28f25423300928f6b13fc29615ea50c70f758"
+        },
+        {
+          "accession": "OR184967.2",
+          "organism": "Juquitiba virus",
+          "length_aa": 428,
+          "sha256": "1bc8867572bf3c26fde6a475c71e9118cf4be62d5a300a91e561b99b91616572"
+        },
+        {
+          "accession": "OR184969.2",
+          "organism": "Juquitiba virus",
+          "length_aa": 422,
+          "sha256": "bdb69ca3732ec3fd255e0acf623cb409833054227836342ada8ef56935362161"
+        },
+        {
+          "accession": "OR184970.2",
+          "organism": "Juquitiba virus",
+          "length_aa": 422,
+          "sha256": "41f0b08883c1f69e42e967be4cc9ce0023cb174c134514ea45429cb09a10d786"
+        },
+        {
+          "accession": "OR184971.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 352,
+          "sha256": "d86fb583b94cc98d17542de30d4c66052ab605ff64d91c7f465de9363f75926a"
+        },
+        {
+          "accession": "OR184974.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 425,
+          "sha256": "f2c63b23740c979f4c820d647291f03b1dc8e1b89145cbe8c649c3fe480b4448"
+        },
+        {
+          "accession": "OR890439.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "1b9034fccf8220144f75d52442cc2b59645469af745594c2adcfd28da9ebdc05"
+        },
+        {
+          "accession": "OR908886.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 411,
+          "sha256": "84d117252e7f8b4af600d3196f8433e0a308a2cab594f2a7a34858bca0e0d21b"
+        },
+        {
+          "accession": "OR908890.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "68614bdd0ce9dd1c45df94bcc4257e5e1f73b7e4c9816fc2e63e2a3f4e8b74a8"
+        },
+        {
+          "accession": "OR908891.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 426,
+          "sha256": "13a88881bfafedef60915d2523b0edae28a94e18cbae5b69c861bad1c978bba4"
+        },
+        {
+          "accession": "PP058740.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "5e52dd0547504daa8bb03e4acf6d4cb0963f1705413d847112fcb8f456551180"
+        },
+        {
+          "accession": "PP504848.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "1929e7ca01a9a516d1d04107b3e38b8fa13d189cff393e86a34c901b43927b8b"
+        },
+        {
+          "accession": "PQ181488.2",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 403,
+          "sha256": "b10f342b00c3609bf627b1850fef8beced487d51b89a104903693fb50a7e1f43"
+        },
+        {
+          "accession": "PV007714.1",
+          "organism": "Juquitiba virus",
+          "length_aa": 328,
+          "sha256": "8967000acc26260031263f7001e1b5d86c2f07cc619c4497a2fe7e21c2cc9f9b"
+        },
+        {
+          "accession": "PZ424449.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "ae5b4222e1d041f2f83f095d90188f14229020ba9bb16b8a599517d4c7ce8ca2"
+        },
+        {
+          "accession": "PZ424455.1",
+          "organism": "Orthohantavirus andesense",
+          "length_aa": 428,
+          "sha256": "3423c59fa9e8add01d40ee85ea87964a7b0212de925c22888a3cb9a86cf6c1af"
+        },
+        {
+          "accession": "U02474.1",
+          "organism": "Four Corners hantavirus",
+          "length_aa": 358,
+          "sha256": "dcc6c4feeae7aa1021a36d51556f82b4690c8339bcec8cb8bfe60884362d594f"
+        },
+        {
+          "accession": "U09488.1",
+          "organism": "New York virus",
+          "length_aa": 428,
+          "sha256": "29203b8915d03df6539d372e681f02db1107a751308b8e0d589ab97da69c67e6"
+        }
+      ]
+    }
+  },
+  "queries": {
+    "gpc|Andes virus": "\"Andes virus\"[Organism] AND (\"segment M\"[All Fields] OR \"M segment\"[All Fields] OR glycoprotein[All Fields] OR GPC[All Fields])",
+    "gpc|Sin Nombre virus": "\"Sin Nombre virus\"[Organism] AND (\"segment M\"[All Fields] OR \"M segment\"[All Fields] OR glycoprotein[All Fields] OR GPC[All Fields])",
+    "gpc|Choclo orthohantavirus": "\"Choclo orthohantavirus\"[Organism] AND (\"segment M\"[All Fields] OR \"M segment\"[All Fields] OR glycoprotein[All Fields] OR GPC[All Fields])",
+    "gpc|Rio Negro virus": "\"Rio Negro virus\"[Organism] AND (\"segment M\"[All Fields] OR \"M segment\"[All Fields] OR glycoprotein[All Fields] OR GPC[All Fields])",
+    "gpc|Laguna Negra virus": "\"Laguna Negra virus\"[Organism] AND (\"segment M\"[All Fields] OR \"M segment\"[All Fields] OR glycoprotein[All Fields] OR GPC[All Fields])",
+    "gpc|Lechiguanas virus": "\"Lechiguanas virus\"[Organism] AND (\"segment M\"[All Fields] OR \"M segment\"[All Fields] OR glycoprotein[All Fields] OR GPC[All Fields])",
+    "gpc|Juquitiba virus": "\"Juquitiba virus\"[Organism] AND (\"segment M\"[All Fields] OR \"M segment\"[All Fields] OR glycoprotein[All Fields] OR GPC[All Fields])",
+    "gpc|Maciel virus": "\"Maciel virus\"[Organism] AND (\"segment M\"[All Fields] OR \"M segment\"[All Fields] OR glycoprotein[All Fields] OR GPC[All Fields])",
+    "gpc|Oran virus": "\"Oran virus\"[Organism] AND (\"segment M\"[All Fields] OR \"M segment\"[All Fields] OR glycoprotein[All Fields] OR GPC[All Fields])",
+    "gpc|Bermejo virus": "\"Bermejo virus\"[Organism] AND (\"segment M\"[All Fields] OR \"M segment\"[All Fields] OR glycoprotein[All Fields] OR GPC[All Fields])",
+    "n|Andes virus": "\"Andes virus\"[Organism] AND (\"segment S\"[All Fields] OR \"S segment\"[All Fields] OR nucleocapsid[All Fields] OR nucleoprotein[All Fields])",
+    "n|Sin Nombre virus": "\"Sin Nombre virus\"[Organism] AND (\"segment S\"[All Fields] OR \"S segment\"[All Fields] OR nucleocapsid[All Fields] OR nucleoprotein[All Fields])",
+    "n|Choclo orthohantavirus": "\"Choclo orthohantavirus\"[Organism] AND (\"segment S\"[All Fields] OR \"S segment\"[All Fields] OR nucleocapsid[All Fields] OR nucleoprotein[All Fields])",
+    "n|Rio Negro virus": "\"Rio Negro virus\"[Organism] AND (\"segment S\"[All Fields] OR \"S segment\"[All Fields] OR nucleocapsid[All Fields] OR nucleoprotein[All Fields])",
+    "n|Laguna Negra virus": "\"Laguna Negra virus\"[Organism] AND (\"segment S\"[All Fields] OR \"S segment\"[All Fields] OR nucleocapsid[All Fields] OR nucleoprotein[All Fields])",
+    "n|Lechiguanas virus": "\"Lechiguanas virus\"[Organism] AND (\"segment S\"[All Fields] OR \"S segment\"[All Fields] OR nucleocapsid[All Fields] OR nucleoprotein[All Fields])",
+    "n|Juquitiba virus": "\"Juquitiba virus\"[Organism] AND (\"segment S\"[All Fields] OR \"S segment\"[All Fields] OR nucleocapsid[All Fields] OR nucleoprotein[All Fields])",
+    "n|Maciel virus": "\"Maciel virus\"[Organism] AND (\"segment S\"[All Fields] OR \"S segment\"[All Fields] OR nucleocapsid[All Fields] OR nucleoprotein[All Fields])",
+    "n|Oran virus": "\"Oran virus\"[Organism] AND (\"segment S\"[All Fields] OR \"S segment\"[All Fields] OR nucleocapsid[All Fields] OR nucleoprotein[All Fields])",
+    "n|Bermejo virus": "\"Bermejo virus\"[Organism] AND (\"segment S\"[All Fields] OR \"S segment\"[All Fields] OR nucleocapsid[All Fields] OR nucleoprotein[All Fields])"
+  }
+}

@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large/network-generated raw prediction tables
+results/raw_predictions/*.csv
+results/raw_predictions/*.log
+
+# Local archives and temporary release material
+*.zip
+*.tar.gz
+release_tmp/

@@ -1,0 +1,120 @@
+[
+  {
+    "chunk": 0,
+    "alleles": [
+      "HLA-DRB1*01:01",
+      "HLA-DRB1*03:01",
+      "HLA-DRB1*03:02",
+      "HLA-DRB1*04:01",
+      "HLA-DRB1*04:04",
+      "HLA-DRB1*04:05",
+      "HLA-DRB1*07:01",
+      "HLA-DRB1*08:02",
+      "HLA-DRB1*08:03",
+      "HLA-DRB1*08:04",
+      "HLA-DRB1*09:01"
+    ],
+    "result_id": "d362dea5-a963-407b-a108-eded2c7c8f74",
+    "pipeline_id": "122bdb81-7fb9-4c5b-863c-398b40560502",
+    "submitted_at": "2026-08-12T17:50:23.303035+00:00",
+    "submit_response": {
+      "result_id": "d362dea5-a963-407b-a108-eded2c7c8f74",
+      "results_uri": "https://api-nextgen-tools.iedb.org/api/v1/results/d362dea5-a963-407b-a108-eded2c7c8f74",
+      "pipeline_id": "122bdb81-7fb9-4c5b-863c-398b40560502",
+      "pipeline_uri": "https://api-nextgen-tools.iedb.org/api/v1/pipeline/122bdb81-7fb9-4c5b-863c-398b40560502",
+      "pipeline_spec_id": "75ed50c7-b061-4ea7-b44b-09c74c09d285",
+      "pipeline_spec_uri": "https://api-nextgen-tools.iedb.org/api/v1/pipeline_spec/75ed50c7-b061-4ea7-b44b-09c74c09d285",
+      "warnings": [],
+      "input_sequence_text_id": "76881f03-a76d-4037-8f7c-9f583db18896",
+      "input_sequence_text_uri": "https://api-nextgen-tools.iedb.org/api/v1/get_object/76881f03-a76d-4037-8f7c-9f583db18896"
+    }
+  },
+  {
+    "chunk": 1,
+    "alleles": [
+      "HLA-DRB1*10:01",
+      "HLA-DRB1*11:01",
+      "HLA-DRB1*12:02",
+      "HLA-DRB1*13:01",
+      "HLA-DRB1*13:02",
+      "HLA-DRB1*14:04",
+      "HLA-DRB1*15:01",
+      "HLA-DRB1*15:02",
+      "HLA-DRB1*15:03",
+      "HLA-DRB1*16:02",
+      "HLA-DRB3*01:01"
+    ],
+    "result_id": "93735d0c-1269-42ce-a0b6-93cdbfe6cff4",
+    "pipeline_id": "7aecfa6e-f83c-46cc-8b9f-6ab4daa75216",
+    "submitted_at": "2026-08-12T17:50:26.347821+00:00",
+    "submit_response": {
+      "result_id": "93735d0c-1269-42ce-a0b6-93cdbfe6cff4",
+      "results_uri": "https://api-nextgen-tools.iedb.org/api/v1/results/93735d0c-1269-42ce-a0b6-93cdbfe6cff4",
+      "pipeline_id": "7aecfa6e-f83c-46cc-8b9f-6ab4daa75216",
+      "pipeline_uri": "https://api-nextgen-tools.iedb.org/api/v1/pipeline/7aecfa6e-f83c-46cc-8b9f-6ab4daa75216",
+      "pipeline_spec_id": "feba222f-24e5-455a-a49f-85c357c61e00",
+      "pipeline_spec_uri": "https://api-nextgen-tools.iedb.org/api/v1/pipeline_spec/feba222f-24e5-455a-a49f-85c357c61e00",
+      "warnings": [],
+      "input_sequence_text_id": "ec5849a1-5882-4f6d-862f-407d42d23a7b",
+      "input_sequence_text_uri": "https://api-nextgen-tools.iedb.org/api/v1/get_object/ec5849a1-5882-4f6d-862f-407d42d23a7b"
+    }
+  },
+  {
+    "chunk": 2,
+    "alleles": [
+      "HLA-DRB3*02:02",
+      "HLA-DRB4*01:01",
+      "HLA-DRB5*01:01",
+      "HLA-DQA1*05:01/DQB1*02:01",
+      "HLA-DQA1*02:01/DQB1*02:02",
+      "HLA-DQA1*03:01/DQB1*02:02",
+      "HLA-DQA1*05:01/DQB1*03:01",
+      "HLA-DQA1*03:01/DQB1*03:02",
+      "HLA-DQA1*03:01/DQB1*03:03",
+      "HLA-DQA1*05:01/DQB1*03:19",
+      "HLA-DQA1*04:01/DQB1*04:02"
+    ],
+    "result_id": "302afd08-3ac4-45d7-bd98-7543420ab948",
+    "pipeline_id": "550e857d-ac46-4ed9-865f-4be8c868e4bd",
+    "submitted_at": "2026-08-12T17:50:29.335598+00:00",
+    "submit_response": {
+      "result_id": "302afd08-3ac4-45d7-bd98-7543420ab948",
+      "results_uri": "https://api-nextgen-tools.iedb.org/api/v1/results/302afd08-3ac4-45d7-bd98-7543420ab948",
+      "pipeline_id": "550e857d-ac46-4ed9-865f-4be8c868e4bd",
+      "pipeline_uri": "https://api-nextgen-tools.iedb.org/api/v1/pipeline/550e857d-ac46-4ed9-865f-4be8c868e4bd",
+      "pipeline_spec_id": "780ada32-cb3f-4ce5-b880-59f98144aa4b",
+      "pipeline_spec_uri": "https://api-nextgen-tools.iedb.org/api/v1/pipeline_spec/780ada32-cb3f-4ce5-b880-59f98144aa4b",
+      "warnings": [],
+      "input_sequence_text_id": "24a4abb8-aeef-4bf3-a964-0448e39f8a7d",
+      "input_sequence_text_uri": "https://api-nextgen-tools.iedb.org/api/v1/get_object/24a4abb8-aeef-4bf3-a964-0448e39f8a7d"
+    }
+  },
+  {
+    "chunk": 3,
+    "alleles": [
+      "HLA-DQA1*01:01/DQB1*05:01",
+      "HLA-DQA1*01:02/DQB1*05:02",
+      "HLA-DQA1*01:03/DQB1*06:01",
+      "HLA-DQA1*01:02/DQB1*06:02",
+      "HLA-DPA1*01:03/DPB1*02:01",
+      "HLA-DPA1*01:03/DPB1*04:01",
+      "HLA-DPA1*02:01/DPB1*05:01",
+      "HLA-DPA1*01:03/DPB1*04:02",
+      "HLA-DPA1*02:01/DPB1*01:01"
+    ],
+    "result_id": "d551725c-7963-4377-9817-3627a9c76b24",
+    "pipeline_id": "4bb64ce0-2791-4d5b-a9b6-6b875d272f20",
+    "submitted_at": "2026-08-12T17:50:32.338545+00:00",
+    "submit_response": {
+      "result_id": "d551725c-7963-4377-9817-3627a9c76b24",
+      "results_uri": "https://api-nextgen-tools.iedb.org/api/v1/results/d551725c-7963-4377-9817-3627a9c76b24",
+      "pipeline_id": "4bb64ce0-2791-4d5b-a9b6-6b875d272f20",
+      "pipeline_uri": "https://api-nextgen-tools.iedb.org/api/v1/pipeline/4bb64ce0-2791-4d5b-a9b6-6b875d272f20",
+      "pipeline_spec_id": "5f9c9d8c-c277-4e3f-b46a-d282daa4e222",
+      "pipeline_spec_uri": "https://api-nextgen-tools.iedb.org/api/v1/pipeline_spec/5f9c9d8c-c277-4e3f-b46a-d282daa4e222",
+      "warnings": [],
+      "input_sequence_text_id": "90f35140-24d8-49d8-9c33-50033adfdb31",
+      "input_sequence_text_uri": "https://api-nextgen-tools.iedb.org/api/v1/get_object/90f35140-24d8-49d8-9c33-50033adfdb31"
+    }
+  }
+]

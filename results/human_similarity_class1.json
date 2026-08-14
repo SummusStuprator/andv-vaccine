@@ -1,0 +1,4223 @@
+{
+  "AAECPFLPK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AASAETPLM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AAVSTLETK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ACGLFPAQVKA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ACQKYSYPW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ADLVAAQKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AECPFLPKP": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AECPFLPKPKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AEEITPGRF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AEEKLKKKSAF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AEIQPLGHW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AEIQPLGHWM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AEKAVEVDP": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AETESATL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Neuromodulin",
+    "similarity_class": "one_mismatch"
+  },
+  "AETESATLF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AETPLMESGW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AEVVSRML": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AEVVSRMLV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AFAGVPMY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AFFSILQDMR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AFGDPGDIM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AFHCYGACQKY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AFMSTNKMY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AFMSTNKMYF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AFYQSYLRR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AGVPELGAF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AGVPMYSSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AHSLAVEL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Break repair meiotic recombinase recruitment factor 1",
+    "similarity_class": "one_mismatch"
+  },
+  "AHTYDTVTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AIGAYILGF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AIPIILKAL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AIQNSQSYLR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ALKKSLKKPEV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ALQAHYSICK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ALQGYYVCF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ALYVAGVPEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AMKRGLLL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AMKRGLLLL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ANKEESIPF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ANKEESIPFHF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ANLARGSNTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ANLARGSNTVK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "APDRCPPTAL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "APDRCPPTALY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "APELYDTLKKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "APHLERVTGF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "APPCTFKCW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "APVLTCMSI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AQIPAVTL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Microtubule cross-linking factor 1",
+    "similarity_class": "one_mismatch"
+  },
+  "AQIPAVTLI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AQIPAVTLII": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AQIPAVTLIIL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AQKSFTQV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AQKSFTQVEW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AQKSFTQVEWR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AQPHTVGL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AQSLIDTKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AQTKTVNLR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AQVKARNI": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Ankyrin repeat and SOCS box protein 13",
+    "similarity_class": "one_mismatch"
+  },
+  "AQVKARNII": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ARGSNTVKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ARNIISPVM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ASAPHLERV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ASEAFMSTNK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ASKSVGTAEEK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ASTTFEAQTK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ATESALQAHY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ATESALQAHYS": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ATFNIKTAF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ATKDSFQSF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ATKPVDPTGL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ATPHSVWVF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ATVMLLSTF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AVSTLETKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AYKIISLKY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AYKIISLKYTR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AYSENGIF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "AYSENGIFNI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CAPDRCPPTAL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CEYQGNTI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CEYQGNTISGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CFFEKDYQY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CLVTPSVKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CMASVFTSR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CNFDLHTTSM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CPFLPKPKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CPPTALYV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CPSFMTSI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CQRVDQDVVVY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CTENALQGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CTENALQGYY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CYGSTVANL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "CYRTLGVFR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DAEKAVEV": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "MAX gene-associated protein",
+    "similarity_class": "one_mismatch"
+  },
+  "DAIQNSQSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DAIQNSQSYL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DAIQNSQSYLR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DAMKRGLL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Tissue-type plasminogen activator",
+    "similarity_class": "one_mismatch"
+  },
+  "DAMKRGLLL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DAMKRGLLLL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DATFNIKTAF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DCLVTPSV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DDHLKEKSSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DFSLPSSSSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DHAETESATL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DHDAIQNSQSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DHLKEKSSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DIIDLIDHA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DIMSTPSGM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DIMSTPSGMR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DIRSAEVVSR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DIRSAEVVSRM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DKLKSVGKAY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DMDPELRQL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Xin actin-binding repeat-containing protein 1",
+    "similarity_class": "one_mismatch"
+  },
+  "DPDDVNKSTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DQKIIILY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DQKIIILYM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DRCPPTAL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "MAP kinase-interacting serine/threonine-protein kinase 1",
+    "similarity_class": "one_mismatch"
+  },
+  "DRCPPTALY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DRIEEFLAA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DSFQSFNL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DTAHGVGEI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DTLKGTAFA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DTTDTTNAA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DTTNAASTTF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DTVTLPISCF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DVAHSLAVEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DVNKSTLQSR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DVNKSTLQSRR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "DWMDRIEEF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EAFMSTNKM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EAFMSTNKMY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EAQTKTVNL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EAQTKTVNLR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EATESALQAHY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EAVNHFHL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EAYSENGI": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Immunoglobulin superfamily member 10",
+    "similarity_class": "one_mismatch"
+  },
+  "EAYSENGIF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ECPFLPKPKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EEFLAAECPF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EEITPGRF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EEITPGRFRTI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EEKLKKKSAF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EEKLKKKSAFY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EEPSGQTADW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EESIPFHF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EESIPFHFQM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EEVNGIRKP": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EHTGSFRKI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EIATPHSVW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EIATPHSVWV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EIATPHSVWVF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EIPMKTDLEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EIQPLGHW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EIQPLGHWM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EISNQEPLK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EKLKKKSAF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EKVTGCTVF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ELKRQLADL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ELQENITAH": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ELRQLAQSL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Solute carrier family 22 member 6",
+    "similarity_class": "one_mismatch"
+  },
+  "ELYDTLKKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ENITAHEQQLV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EPHITANKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EPHITANKLEW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EPLIVPSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EPSGQTADW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EQLKVIKTF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ERVTGFNQI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ESATLFTEI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ESGWSDTAHGV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ESIPFHFQM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ESIPFHFQMEK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ESKFKFIL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ESKFKFILEK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ETAKELESH": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ETAKELESHR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ETKLGELKR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EVNGIRKPK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EVVSRMLVH": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EVVSRMLVHPR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EWIDPDGNTR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "EYQGNTISGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FAGVPMYSSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FAIPIILKA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FAIPIILKAL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FAIPIILKALY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FAQIPAVTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FAQIPAVTLI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FAQPHTVGL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FATTPVCEY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FDLHTTSM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FEAQTKTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FEAQTKTVNL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FEKDYQYET": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FEKDYQYETGW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FFEKDYQY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FFSILQDMR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FGDPGDIM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FHFQMEKQV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FILEKVKVEY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FLAAECPFL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FLGPLEQGGII": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FLGSHSEPL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FLTPKKSEQL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FMSTNKMY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FMSTNKMYF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FNISSPTCL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FNLTEPHITA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FNPAHTLTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FNQIDSDKVY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FPAQVKARNI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FQDLSDNPCKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FQEALKKSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FQMEKQVI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FQMEKQVIH": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FQMEKQVIHA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FRGSEQKINF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FRYKSRCY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FRYKSRCYV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FSLMPDVAHSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FSLPSSSSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FSLPSSSSYSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FTEIATPHSV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FTEIATPHSVW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FTKSGEWLL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FTLTCTVGL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FTSRIQVI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FTSRIQVIY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "FVKDWMDRI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GACQKYSYPW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GAWGSGVGF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GCTENALQGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GEIPMKTDL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GEIPMKTDLEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GELKRQLA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GELKRQLADL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GEMEKVTGC": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GEMEKVTGCTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GEWLLGIL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GFATTPVCEY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GFNQIDSDKVY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GGHSGSSFK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GILNGNWIV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GIRKPKHLY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GKAYKIISL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GKAYKIISLK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GKEAVNHFHL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GKGGHSGSSF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GLFPAQVKA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GLFPAQVKAR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GLLASAPHL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GLLLLVLLV": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Signal peptide, CUB and EGF-like domain-containing protein 3",
+    "similarity_class": "one_mismatch"
+  },
+  "GPGASCEAY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GPLEQGGIIL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GQCFNPAHTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GQCPYCMTI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GQKKVILTK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GQLIEGQCF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GSFRKICGF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GSHSEPLIV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GSNTVKVVGK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GTAEEKLKK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GTAEEKLKKK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GTAFAGVPMY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GTCILAPELY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GVGEIPMKTDL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GVIGFGFFV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GVIGFGFFVK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GVPELGAFF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GVPMYSSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GVYLDKLKSV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GYIIGSTEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GYKRMMATK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "GYLPISGEM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HAEIQPLGHW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HAETESATL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HAETESATLF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HCYGACQKY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HDAIQNSQSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HECETAKEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HEQQLVTA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HHECETAKEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HIDANDCL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HIDANDCLV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HITANKLEW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HLGDDMDPEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HLKEKSSL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Coiled-coil domain-containing protein 110",
+    "similarity_class": "one_mismatch"
+  },
+  "HLKEKSSLR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HLKEKSSLRY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HLYVSMPTA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HPRGEDHDAI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HSEPLIVPSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HSLAVELCV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HTQAIEGAW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HTVGLGQGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HTVGLGQGYI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HTYDTVTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HTYDTVTLPI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HWMDATFNI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HYSICKLTGR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HYSICKLTGRF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "HYTNESKFKF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IAPVLTCM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IATPHSVW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IATPHSVWV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IATPHSVWVF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ICDKKTVPI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ICDKKTVPITW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IEAASDIKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IHAEIQPL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IHAEIQPLGHW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IIILYMLSW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IILKALYML": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IIPESNHSI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IISLKYTRK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IKLESSCNF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IKTFEGILTK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ILAPELYDTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ILAPELYDTLK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ILEKVKVEY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ILKCLRVLTF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ILNGNWIVV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ILNGNWIVVV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ILQDMRNTI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ILSIIMFSV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ILYMLSWGK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IMFSVLCPR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IPAVTLII": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IPAVTLIIL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IPESNHSI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IPFHFQMEKQV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IPIILKAL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Stalled ribosome sensor GCN1",
+    "similarity_class": "one_mismatch"
+  },
+  "IPIILKALY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IPMKTDLEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IPMKTDLELDF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IQLDQKII": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IQLDQKIII": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IQLDQKIIIL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IQLDQKIIILY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IQNSQSYLR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IRFKDDSSF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IRKPKHLY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IRKPKHLYV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IRSAEVVSRM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IRSCMASVF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ISIEAASDIKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ISLKYTRKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ISNQEPLKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ISSPTCLVNK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ITAHEQQL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ITAHEQQLV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ITANKLEW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ITEATESAL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "ITPGRFRTI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IVGPITAKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IYTFTSLF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "IYTFTSLFSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KACDLAMCY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KAEEITPGRFR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KAIGAYILGF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KALYMLSTR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KARNIISPV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KAYKIISL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KAYKIISLK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KAYKIISLKY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KCFFEKDYQY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KCWFTKSGEW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KDWMDRIEEF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KDYQYETGW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KEAVNHFHL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KEESIPFHF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KEESIPFHFQM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KEISNQEPL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KEISNQEPLKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KEKSSLRY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KELESHRQS": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KELESHRQSC": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KFILEKVKVEY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KFKFILEK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KGCYRTLGVFR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KGTAFAGVPMY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KIISLKYTR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KIISLKYTRK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KKKSAFYQSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KKSAFYQSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KKSAFYQSYLR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KKSLKKPEVKK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KKTVPITWTGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KKVILTKTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KKVKKTVLCY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KLGELKRQL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KLKDAEKAV": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Deoxycytidine kinase",
+    "similarity_class": "one_mismatch"
+  },
+  "KLKDAEKAVEV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KLKKKSAF": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Hsp70-binding protein 1",
+    "similarity_class": "one_mismatch"
+  },
+  "KLKKKSAFY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KLKSVGKAY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KLKSVGKAYK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KLQPSDTLL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KLQPSDTLLF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KLQPSDTLLFL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KLTGRFQEA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KLTGRFQEALK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KMYFLNRQR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KPKHLYVSM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KPKVASEAF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KPKVASEAFM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KPVDPTGL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KQVIHAEI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KQWCTTSCAF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KRGLLLLVL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSAFYQSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSAFYQSYL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSAFYQSYLR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSAFYQSYLRR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSEQLKVIK": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "DNA repair protein complementing XP-C cells",
+    "similarity_class": "one_mismatch"
+  },
+  "KSEQLKVIKTF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSFTQVEW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSFTQVEWR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSFTQVEWRK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSFTQVEWRKK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSGEWLLGI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSLKKPEVK": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Acrosomal protein KIAA1210",
+    "similarity_class": "one_mismatch"
+  },
+  "KSLKKPEVKK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSRCYVGLVW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSVGKAYKI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KSVGTAEEK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KTDLELDFSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KTFEGILTK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KTFEGILTKT": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KTLVIGQCI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KTLVIGQCIY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KTVPITWTGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KTVPITWTGYL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KVCIVGTVSK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KVDLHTQAI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KVIKTFEGI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KVILTKTLV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KVKEISNQE": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KVKEISNQEPL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KVKKTVLCY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KVPSTSSTDTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KVQDIIDLI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KVQRFRGSEQK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KYSYPWQTSK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "KYTRKVCIQL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LADLVAAQKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LAMCYGSTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LAPELYDTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LARGSNTVK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LASAPHLER": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LCVPGLHGW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LDFSLPSSSSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LDQKIIILY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LEEPSGQTA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LEEPSGQTADW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LEQGGIIL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LEQGGIILKQW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LETKLGEL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "ATP synthase subunit f, mitochondrial",
+    "similarity_class": "one_mismatch"
+  },
+  "LGDDMDPEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LGFAIPIIL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LHTQAIEGAW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LIAPVLTCM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LIDTKVKEI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LKCLRVLTF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LKEKSSLRY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LKKVKKTVL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LKSVGKAY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LKYTRKVCI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LLASAPHLERV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LMPDVAHSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LMPDVAHSLA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LMPDVAHSLAV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LPISGEMEKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LPKPKVASE": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LPKPKVASEA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LPKPKVASEAF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LPSSSSYSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LPSSSSYSYR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LQDMRNTI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LQDMRNTIM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LQELQENITA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LQPSDTLLF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LQPSDTLLFL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LRFAQIPAV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LRFAQPHTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LRFAQPHTVGL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LRIVGPITAK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LRQLAQSL": {
+    "human_match": "yes",
+    "min_mismatches": 0,
+    "best_match_protein": "Solute carrier family 22 member 6",
+    "similarity_class": "exact_match"
+  },
+  "LRYGNVLDV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LSDNPCKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LSDNPCKVDL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LSQPAHTY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LSTRGRQTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LSWGKEAVNHF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LTEPHITANK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LTLSQPAHTY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LTPKKSEQL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LVLNRDVSF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LVNKVQRFR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LVRNADPEF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LYDTLKKV": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "ADP/ATP translocase 3",
+    "similarity_class": "one_mismatch"
+  },
+  "LYMLSTRGR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "LYVAGVPEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MAQKSFTQV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MAQKSFTQVEW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MASVFTSRI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MATKDSFQSF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MEKQVIHA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MEKVTGCTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MESGWSDTA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MFSVLCPRR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MGIQLDQKI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MLSWGKEAV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MMATKDSFQSF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MPDVAHSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MPDVAHSLA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MPDVAHSLAV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MPTAQSTM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MRCPEHTGSF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MSTNKMYF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MSTNKMYFL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MTITEATESA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MYSSLSTLV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "MYSSLSTLVR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NAASTTFEA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NADPEFVF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NALQGYYV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NESKFKFIL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NESKVQDII": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NFDLHTTSM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NGIRKPKHL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NGQKKVIL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NIISPVMGV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NIKTAFHCY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NISSPTCLV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NISSPTCLVNK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NKEESIPFHF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NLARGSNTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NPAHTLTL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Helicase SRCAP",
+    "similarity_class": "one_mismatch"
+  },
+  "NPANKEESI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NPANKEESIPF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NQIDSDKVY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NQTHCQPTVY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NRDVSFQDL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NSQSYLRIV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NTIMASKSV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NTISGYKR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NTISGYKRM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NTRDHVNLV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "NTRDHVNLVL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "PFLPKPKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "PSSSSYSY": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Keratin, type II cytoskeletal 74",
+    "similarity_class": "one_mismatch"
+  },
+  "PWQTSKCFF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QAHYSICKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QCFNPAHTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QEALKKSL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Dystrophin",
+    "similarity_class": "one_mismatch"
+  },
+  "QELQENITA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QENITAHEQQL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QGGIILKQW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QIPAVTLI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QIPAVTLII": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QKYSYPWQTSK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QLADLVAAQK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QLADLVAAQKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QLAQSLIDTK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QLDQKIIIL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QLDQKIIILY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QLKVIKTF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QPAHTYDTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QPAHTYDTVTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QPHTVGLGQGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QPLGHWMDATF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QPSDTLLF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QPSDTLLFL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QRVDQDVVV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QRVDQDVVVY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QSMGIQLDQK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QTADWKAIGAY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QTHCQPTVY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QTHCQPTVYL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QTSKCFFEK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QTVKDNKGTR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "QVIYEKTHCV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RAAVSTLETK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RCPEHTGSF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RCPPTALYV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RDHVNLVL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RFAQIPAVTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RFAQIPAVTLI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RFRGSEQKINF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RGRQTVKDNK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RIRFKDDSSF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RIVGPITAK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RIVGPITAKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RKPKHLYVSM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RMMATKDSF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RNADPEFVF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RNIISPVMGV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RQKLKDAEK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RQLAQSLI": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Solute carrier family 22 member 6",
+    "similarity_class": "one_mismatch"
+  },
+  "RQLAQSLIDTK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RQRQVNESK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RQSCINGQCPY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RRAAVSTL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Neuron navigator 3",
+    "similarity_class": "one_mismatch"
+  },
+  "RRTQSMGIQL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RSAEVVSRM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RSAEVVSRML": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RSCMASVFTSR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RTLGVFRY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RTLGVFRYK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RTLGVFRYKSR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RTQSMGIQL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RVDQDVVV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RVDQDVVVY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "RVLTFSCSHY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SAETPLMESGW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SAEVVSRML": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SAFYQSYL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SAFYQSYLR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SAFYQSYLRR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SALQAHYSI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SAPHLERV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SATLFTEI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SCMASVFTSR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SCNFDLHTTSM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SEAFMSTNKM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SEAFMSTNKMY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SEGLLASA": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Forkhead box protein C1",
+    "similarity_class": "one_mismatch"
+  },
+  "SEGLLASAP": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SEGLLASAPHL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SENGIFNI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SENGIFNIS": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SENGIFNISSP": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SEPLIVPSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SEQKINFI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SEQKINFIC": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SEQLKVIKT": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SEQLKVIKTF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SGYKRMMATK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SHSEPLIVPSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SHYTNESKF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SIEAASDIKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SIPFHFQM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SIPFHFQMEK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SIRSCMASV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SKCFFEKDYQY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SKLQPSDTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SKLQPSDTLLF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SLEDIRSAEV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SLFSLMPDV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SLIDTKVKEI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SLKKPEVKK": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Protein Red",
+    "similarity_class": "one_mismatch"
+  },
+  "SLMPDVAHS": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SLMPDVAHSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SLMPDVAHSLA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SLPSSSSY": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Migration and invasion-inhibitory protein",
+    "similarity_class": "one_mismatch"
+  },
+  "SLPSSSSYSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SLRFAQIPAV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SLRFAQPHTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SLRYGNVLDV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SLSTLVRNA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SMAQKSFTQV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SMPTAQSTM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SPTCLVNKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SPVMGVIGF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SQSYLRIV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SRCYVGLVW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SRIQVIYEK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SRRAAVSTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SSFEEVNGI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SSFEEVNGIR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SSFEEVNGIRK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SSLRFAQI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SSLRYGNVL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SSPTCLVNK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SSSSYSYRR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SSSSYSYRRK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SSSYSYRRK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SSYSYRRKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "STDTLKGTAF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "STLETKLGELK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "STLQSRRAA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "STNKMYFLNR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "STRGRQTVK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "STSSTDTLK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "STTFEAQTK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SVFTSRIQV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SVFTSRIQVIY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SVGTAEEKLKK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SVLCPRRGHK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SVLCPRRGHKK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SWGKEAVNHF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SYLRRTQSM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SYPWQTSKCF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "SYPWQTSKCFF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TADWKAIGAY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TAFAGVPMY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TAHEQQLV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TAHGVGEI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TAKELESHR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TCILAPELY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TDLELDFSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TEATESAL": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Isoform 10 of Tyrosine-protein kinase ABL2",
+    "similarity_class": "one_mismatch"
+  },
+  "TEATESALQA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TECPSFMTS": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TEIATPHSV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TEIATPHSVW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TEIATPHSVWV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TELGLISI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TELGLISIEA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TELGLISIEAA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TENALQGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TENALQGYY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TEPHITANKL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TESALQAHY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TFEAQTKTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TFTSLFSLM": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Adrenocorticotropic hormone receptor",
+    "similarity_class": "one_mismatch"
+  },
+  "TGCTENALQGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "THCQPTVYL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TLIILKCLR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TLKKVKKTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TLKKVKKTVL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TLPISCFL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TLQELQENI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TLQSRRAAV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TLSQPAHTY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TLTLSQPAHTY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TLVIGQCIY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TNKMYFLNR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TPGRFRTI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TPGRFRTIA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TPHSVWVF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TPKKSEQL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TPLMESGW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TPSVKVCI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TPSVKVCIV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TRDHVNLVL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TRKVCIQL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TSMAQKSF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TSRIQVIYEK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TTFEAQTKT": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TTFEAQTKTV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TTNAASTTF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TTSMAQKSF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TVKDNKGTR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TVPITWTGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TVTLPISCF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TVYLIAPVL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "TYDTVTLPI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VAAQKLATK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VAGVPELGAF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VAHSLAVEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VELCVPGLHGW": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VEYQKTMGS": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VEYQKTMGSM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VFTSRIQVI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VFTSRIQVIY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VGEIPMKTDL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VGTAEEKLKK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VIGFGFFVK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VIGQCIYTF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VIHAEIQPL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VIKTFEGILTK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VILTKTLVI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VIYEKTHCV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VKDWMDRIEEF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VKEISNQEPL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VKKGCYRTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VKVEYQKTM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VLDVNSIDL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VLLVWSSLR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VLTFSCSHY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VMLLSTFCF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VNKSTLQSR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VPELGAFF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VPGLHGWATVM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VPITWTGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VPITWTGYL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VPMYSSLST": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VPMYSSLSTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VPSTSSTDTL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VQDIIDLI": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Probable tubulin polyglutamylase TTLL2",
+    "similarity_class": "one_mismatch"
+  },
+  "VRNADPEFV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VRNADPEFVF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VSMPTAQSTM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VSMPTAQSTMK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VSRMLVHPR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VTLPISCFL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VTPSVKVCI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VVYCNGQKK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VYDDGAPPC": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VYDDGAPPCTF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VYLDKLKSV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VYLIAPVL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "VYLIAPVLTCM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "WAASAETPL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "WGKEAVNHF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "WMDRIEEF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "WMDRIEEFL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "WSDTAHGV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YFLNRQRQV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YGACQKYSY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YIIGSTEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YILGFAIPI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YKIISLKY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YKIISLKYTR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YLDKLKSV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YLIAPVLTC": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YLIAPVLTCM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YLPISGEM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YLPISGEMEKV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YLRIVGPITA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YLRIVGPITAK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YLRRTQSM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YMLSWGKEA": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YMLSWGKEAV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YPWQTSKCF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YPWQTSKCFF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YQGNTISGY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YQKTMGSMV": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YQYETGWGC": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YRTLGVFRY": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YRTLGVFRYK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YSENGIFNI": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YSICKLTGR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YSSLSTLV": {
+    "human_match": "yes",
+    "min_mismatches": 1,
+    "best_match_protein": "Adhesion G protein-coupled receptor A2",
+    "similarity_class": "one_mismatch"
+  },
+  "YSSLSTLVR": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YSYPWQTSK": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YSYPWQTSKCF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YTFTSLFSL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YTNESKFKF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YTRKVCIQL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YVAGVPEL": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YVAGVPELGAF": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "YVSMPTAQSTM": {
+    "human_match": "none",
+    "min_mismatches": null,
+    "similarity_class": "no_match"
+  },
+  "_meta": {
+    "tool": "PEPMatch via IEDB next-gen API",
+    "version_served": "0.9.5",
+    "retrieved": "2026-08-13T00:28:54.785930+00:00",
+    "proteome": "Human",
+    "mismatch": 1,
+    "best_match": true,
+    "terminology": "similarity_class is a pipeline-defined sequence-match label (exact_match / one_mismatch / no_match), not a validated clinical risk taxonomy."
+  }
+}

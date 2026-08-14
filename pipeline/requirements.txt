@@ -1,0 +1,7 @@
+# Python dependencies for the computational pipeline.
+# Tested with Python 3.11.13 on Linux x86_64.
+biopython==1.85
+pandas==2.3.1
+numpy==2.1.0
+requests==2.32.4
+# System dependency: MAFFT v7.526 for conservation.py

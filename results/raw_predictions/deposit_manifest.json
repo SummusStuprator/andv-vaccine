@@ -1,0 +1,55 @@
+{
+  "companion_archive": "andv-vaccine-raw-predictions-deposit.zip",
+  "archive_sha256": "611080eec966cfec420d2fefbbda26f0c20b871001fa5069ec630380dbc18172",
+  "files": [
+    {
+      "file": "class1_chunk0.csv",
+      "bytes": 13717026,
+      "rows": 87164,
+      "sha256": "d2857fc86ecda31cc859ecad718addd6949bff4b991beb8a7b5f05413525f901"
+    },
+    {
+      "file": "class1_chunk1.csv",
+      "bytes": 13795095,
+      "rows": 87164,
+      "sha256": "1ad15b9503e8e664bb292b09a06f34bf67f869ed50b6fa23a55b94bc7f1071a2"
+    },
+    {
+      "file": "class1_chunk2.csv",
+      "bytes": 12935283,
+      "rows": 87164,
+      "sha256": "391ce875292b28f3599d13dd728a60e68405b2701f6781886e544e0d2860d527"
+    },
+    {
+      "file": "class1_chunk3.csv",
+      "bytes": 12166545,
+      "rows": 80938,
+      "sha256": "730ae8b364fd5ebb697b719bdcc24f505e67ef2b32c72483d28a4138a4942bf8"
+    },
+    {
+      "file": "class2_chunk0.csv",
+      "bytes": 2150732,
+      "rows": 16940,
+      "sha256": "61e1730dccf99236f83d958733720b0acd26c6d8a0d32b2e8113599cf30693cd"
+    },
+    {
+      "file": "class2_chunk1.csv",
+      "bytes": 2149720,
+      "rows": 16940,
+      "sha256": "8dcb1554d833f5588745dbd412403eaa53d9bf747ee22b2deed191cfcbfa3b4c"
+    },
+    {
+      "file": "class2_chunk2.csv",
+      "bytes": 2289890,
+      "rows": 16940,
+      "sha256": "27558dc4d9a22b1f3963815bac25e4b3ae3448231e5a318f4ef10c128eeca156"
+    },
+    {
+      "file": "class2_chunk3.csv",
+      "bytes": 1917367,
+      "rows": 13860,
+      "sha256": "77767b810a4dd0ad044b98c5bd755e59e1c900c50134cf4c0b57fa77a5eca65a"
+    }
+  ],
+  "note": "Large raw prediction CSV files are kept outside the Git repository and should be deposited with the immutable archival release."
+}

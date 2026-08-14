@@ -1,0 +1,16 @@
+{
+  "length_aa": 460,
+  "sha256": "c4f45f77ac6093a3fcea74d8a2af82a41a4b86720ecc31edb3870661dde8ba7a",
+  "mw_kda": 48.72,
+  "pI": 6.56,
+  "instability_index": 24.46,
+  "gravy": -0.247,
+  "aliphatic_index": 68.24,
+  "n_class1_epitopes": 15,
+  "n_class2_epitopes": 10,
+  "n_bcell_modules": 2,
+  "sequence_publicly_included": true,
+  "sequence_path": "candidate/candidate_sequence.fasta",
+  "release_note": "The complete in silico candidate amino-acid sequence is included in the research repository.",
+  "architecture_summary": "460-residue multi-epitope in silico candidate containing the components described in the manuscript."
+}

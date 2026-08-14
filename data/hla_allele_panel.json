@@ -1,0 +1,769 @@
+{
+  "hla_allele_panel": {
+    "built": "2026-08-12T00:41:57.695558Z",
+    "source_frequencies": "1000 Genomes Project HLA types (Abi-Rached et al. 2018, PLOS ONE, DOI:10.1371/journal.pone.0206512); 2693 samples; superpopulations AFR/AMR/EAS/EUR/SAS",
+    "selection_method": "Union of global top alleles and per-superpopulation top alleles to >=75-85% cumulative frequency per locus. Predictor support was checked through the IEDB next-generation service; archived responses do not expose exact served predictor version metadata.",
+    "class_I": {
+      "count": 55,
+      "alleles": [
+        {
+          "allele": "HLA-A*01:01",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.07432,
+            "AFR": 0.02743,
+            "AMR": 0.04435,
+            "EAS": 0.01866,
+            "EUR": 0.12382,
+            "SAS": 0.16298
+          }
+        },
+        {
+          "allele": "HLA-A*02:01",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.13954,
+            "AFR": 0.11041,
+            "AMR": 0.22177,
+            "EAS": 0.07463,
+            "EUR": 0.29868,
+            "SAS": 0.03039
+          }
+        },
+        {
+          "allele": "HLA-A*02:03",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.01449,
+            "AFR": 0.0,
+            "AMR": 0.0,
+            "EAS": 0.05317,
+            "EUR": 0.0,
+            "SAS": 0.01934
+          }
+        },
+        {
+          "allele": "HLA-A*02:07",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.02137,
+            "AFR": 0.0,
+            "AMR": 0.0,
+            "EAS": 0.10728,
+            "EUR": 0.0,
+            "SAS": 0.0
+          }
+        },
+        {
+          "allele": "HLA-A*02:11",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.01839,
+            "AFR": 0.0007,
+            "AMR": 0.03495,
+            "EAS": 0.0,
+            "EUR": 0.0,
+            "SAS": 0.0663
+          }
+        },
+        {
+          "allele": "HLA-A*03:01",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.07023,
+            "AFR": 0.06118,
+            "AMR": 0.08737,
+            "EAS": 0.01399,
+            "EUR": 0.15312,
+            "SAS": 0.04512
+          }
+        },
+        {
+          "allele": "HLA-A*11:01",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.0955,
+            "AFR": 0.0007,
+            "AMR": 0.03898,
+            "EAS": 0.23041,
+            "EUR": 0.05955,
+            "SAS": 0.16022
+          }
+        },
+        {
+          "allele": "HLA-A*23:01",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.03344,
+            "AFR": 0.09283,
+            "AMR": 0.02688,
+            "EAS": 0.0,
+            "EUR": 0.02079,
+            "SAS": 0.00552
+          }
+        },
+        {
+          "allele": "HLA-A*24:02",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.10015,
+            "AFR": 0.00844,
+            "AMR": 0.13978,
+            "EAS": 0.18843,
+            "EUR": 0.08601,
+            "SAS": 0.11971
+          }
+        },
+        {
+          "allele": "HLA-A*26:01",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.02824,
+            "AFR": 0.01828,
+            "AMR": 0.0121,
+            "EAS": 0.02705,
+            "EUR": 0.0293,
+            "SAS": 0.05249
+          }
+        },
+        {
+          "allele": "HLA-A*29:02",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.02081,
+            "AFR": 0.02461,
+            "AMR": 0.05108,
+            "EAS": 0.0,
+            "EUR": 0.03686,
+            "SAS": 0.0
+          }
+        },
+        {
+          "allele": "HLA-A*30:01",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.02899,
+            "AFR": 0.07665,
+            "AMR": 0.01344,
+            "EAS": 0.01399,
+            "EUR": 0.01229,
+            "SAS": 0.00829
+          }
+        },
+        {
+          "allele": "HLA-A*30:02",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.02694,
+            "AFR": 0.07314,
+            "AMR": 0.02957,
+            "EAS": 0.0,
+            "EUR": 0.01512,
+            "SAS": 0.00276
+          }
+        },
+        {
+          "allele": "HLA-A*31:01",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.02453,
+            "AFR": 0.00703,
+            "AMR": 0.0457,
+            "EAS": 0.03265,
+            "EUR": 0.02457,
+            "SAS": 0.02486
+          }
+        },
+        {
+          "allele": "HLA-A*32:01",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.02304,
+            "AFR": 0.01266,
+            "AMR": 0.01882,
+            "EAS": 0.00466,
+            "EUR": 0.04253,
+            "SAS": 0.03867
+          }
+        },
+        {
+          "allele": "HLA-A*33:03",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.05184,
+            "AFR": 0.05837,
+            "AMR": 0.00538,
+            "EAS": 0.08209,
+            "EUR": 0.00473,
+            "SAS": 0.09116
+          }
+        },
+        {
+          "allele": "HLA-A*68:01",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.03586,
+            "AFR": 0.03024,
+            "AMR": 0.05242,
+            "EAS": 0.0056,
+            "EUR": 0.03119,
+            "SAS": 0.0663
+          }
+        },
+        {
+          "allele": "HLA-A*68:02",
+          "locus": "HLA-A",
+          "frequencies": {
+            "overall": 0.02248,
+            "AFR": 0.06962,
+            "AMR": 0.02285,
+            "EAS": 0.0,
+            "EUR": 0.00473,
+            "SAS": 0.0
+          }
+        },
+        {
+          "allele": "HLA-B*07:02",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.0581,
+            "AFR": 0.05737,
+            "AMR": 0.05653,
+            "EAS": 0.02519,
+            "EUR": 0.11437,
+            "SAS": 0.03779
+          }
+        },
+        {
+          "allele": "HLA-B*08:01",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.03724,
+            "AFR": 0.0262,
+            "AMR": 0.02557,
+            "EAS": 0.00466,
+            "EUR": 0.08223,
+            "SAS": 0.04793
+          }
+        },
+        {
+          "allele": "HLA-B*13:01",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.01341,
+            "AFR": 0.0,
+            "AMR": 0.0,
+            "EAS": 0.05504,
+            "EUR": 0.0,
+            "SAS": 0.01198
+          }
+        },
+        {
+          "allele": "HLA-B*14:02",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.01285,
+            "AFR": 0.00992,
+            "AMR": 0.05249,
+            "EAS": 0.0,
+            "EUR": 0.01512,
+            "SAS": 0.0
+          }
+        },
+        {
+          "allele": "HLA-B*15:02",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.01844,
+            "AFR": 0.0,
+            "AMR": 0.0,
+            "EAS": 0.04571,
+            "EUR": 0.0,
+            "SAS": 0.04608
+          }
+        },
+        {
+          "allele": "HLA-B*15:03",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.01657,
+            "AFR": 0.05949,
+            "AMR": 0.00538,
+            "EAS": 0.0,
+            "EUR": 0.00095,
+            "SAS": 0.0
+          }
+        },
+        {
+          "allele": "HLA-B*35:01",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.06034,
+            "AFR": 0.08924,
+            "AMR": 0.05518,
+            "EAS": 0.03358,
+            "EUR": 0.06994,
+            "SAS": 0.04332
+          }
+        },
+        {
+          "allele": "HLA-B*35:03",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.01955,
+            "AFR": 0.00142,
+            "AMR": 0.01211,
+            "EAS": 0.00746,
+            "EUR": 0.02079,
+            "SAS": 0.05899
+          }
+        },
+        {
+          "allele": "HLA-B*40:01",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.03706,
+            "AFR": 0.00425,
+            "AMR": 0.0148,
+            "EAS": 0.10541,
+            "EUR": 0.04915,
+            "SAS": 0.01567
+          }
+        },
+        {
+          "allele": "HLA-B*40:02",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.01453,
+            "AFR": 0.00071,
+            "AMR": 0.04172,
+            "EAS": 0.03172,
+            "EUR": 0.01134,
+            "SAS": 0.0
+          }
+        },
+        {
+          "allele": "HLA-B*40:06",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.02402,
+            "AFR": 0.00071,
+            "AMR": 0.0,
+            "EAS": 0.02239,
+            "EUR": 0.00095,
+            "SAS": 0.09493
+          }
+        },
+        {
+          "allele": "HLA-B*42:01",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.01527,
+            "AFR": 0.05524,
+            "AMR": 0.00538,
+            "EAS": 0.0,
+            "EUR": 0.0,
+            "SAS": 0.0
+          }
+        },
+        {
+          "allele": "HLA-B*44:02",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.02384,
+            "AFR": 0.00496,
+            "AMR": 0.02826,
+            "EAS": 0.00373,
+            "EUR": 0.08507,
+            "SAS": 0.00553
+          }
+        },
+        {
+          "allele": "HLA-B*44:03",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.05531,
+            "AFR": 0.05028,
+            "AMR": 0.07402,
+            "EAS": 0.02705,
+            "EUR": 0.06144,
+            "SAS": 0.07097
+          }
+        },
+        {
+          "allele": "HLA-B*46:01",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.0311,
+            "AFR": 0.0,
+            "AMR": 0.0,
+            "EAS": 0.15578,
+            "EUR": 0.0,
+            "SAS": 0.0
+          }
+        },
+        {
+          "allele": "HLA-B*51:01",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.04972,
+            "AFR": 0.01983,
+            "AMR": 0.04576,
+            "EAS": 0.05784,
+            "EUR": 0.06522,
+            "SAS": 0.0682
+          }
+        },
+        {
+          "allele": "HLA-B*52:01",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.03426,
+            "AFR": 0.02266,
+            "AMR": 0.01884,
+            "EAS": 0.03451,
+            "EUR": 0.00378,
+            "SAS": 0.0894
+          }
+        },
+        {
+          "allele": "HLA-B*53:01",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.04562,
+            "AFR": 0.16076,
+            "AMR": 0.01211,
+            "EAS": 0.0,
+            "EUR": 0.00662,
+            "SAS": 0.00184
+          }
+        },
+        {
+          "allele": "HLA-B*57:01",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.03091,
+            "AFR": 0.00071,
+            "AMR": 0.0175,
+            "EAS": 0.01119,
+            "EUR": 0.04253,
+            "SAS": 0.08756
+          }
+        },
+        {
+          "allele": "HLA-B*58:01",
+          "locus": "HLA-B",
+          "frequencies": {
+            "overall": 0.03371,
+            "AFR": 0.05524,
+            "AMR": 0.00673,
+            "EAS": 0.05224,
+            "EUR": 0.00945,
+            "SAS": 0.02949
+          }
+        },
+        {
+          "allele": "HLA-C*01:02",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.07079,
+            "AFR": 0.00702,
+            "AMR": 0.09677,
+            "EAS": 0.19701,
+            "EUR": 0.03875,
+            "SAS": 0.04332
+          }
+        },
+        {
+          "allele": "HLA-C*02:10",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.01728,
+            "AFR": 0.0611,
+            "AMR": 0.00672,
+            "EAS": 0.0,
+            "EUR": 0.00095,
+            "SAS": 0.0
+          }
+        },
+        {
+          "allele": "HLA-C*03:02",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.02601,
+            "AFR": 0.0309,
+            "AMR": 0.00269,
+            "EAS": 0.05509,
+            "EUR": 0.00378,
+            "SAS": 0.02857
+          }
+        },
+        {
+          "allele": "HLA-C*03:03",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.03437,
+            "AFR": 0.00492,
+            "AMR": 0.02419,
+            "EAS": 0.07283,
+            "EUR": 0.05198,
+            "SAS": 0.02488
+          }
+        },
+        {
+          "allele": "HLA-C*03:04",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.06485,
+            "AFR": 0.04635,
+            "AMR": 0.08199,
+            "EAS": 0.11858,
+            "EUR": 0.07278,
+            "SAS": 0.01659
+          }
+        },
+        {
+          "allele": "HLA-C*04:01",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.1427,
+            "AFR": 0.24368,
+            "AMR": 0.18952,
+            "EAS": 0.03735,
+            "EUR": 0.13233,
+            "SAS": 0.09217
+          }
+        },
+        {
+          "allele": "HLA-C*05:01",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.03177,
+            "AFR": 0.01756,
+            "AMR": 0.05242,
+            "EAS": 0.00373,
+            "EUR": 0.0879,
+            "SAS": 0.00922
+          }
+        },
+        {
+          "allele": "HLA-C*06:02",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.08045,
+            "AFR": 0.07163,
+            "AMR": 0.05108,
+            "EAS": 0.03548,
+            "EUR": 0.09735,
+            "SAS": 0.14009
+          }
+        },
+        {
+          "allele": "HLA-C*07:01",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.05537,
+            "AFR": 0.0625,
+            "AMR": 0.06452,
+            "EAS": 0.00093,
+            "EUR": 0.12193,
+            "SAS": 0.02857
+          }
+        },
+        {
+          "allele": "HLA-C*07:02",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.10944,
+            "AFR": 0.04705,
+            "AMR": 0.10887,
+            "EAS": 0.16713,
+            "EUR": 0.12098,
+            "SAS": 0.1235
+          }
+        },
+        {
+          "allele": "HLA-C*07:06",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.01542,
+            "AFR": 0.00211,
+            "AMR": 0.00403,
+            "EAS": 0.00654,
+            "EUR": 0.0,
+            "SAS": 0.06452
+          }
+        },
+        {
+          "allele": "HLA-C*08:01",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.0301,
+            "AFR": 0.0,
+            "AMR": 0.02688,
+            "EAS": 0.08777,
+            "EUR": 0.0,
+            "SAS": 0.04424
+          }
+        },
+        {
+          "allele": "HLA-C*08:02",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.0197,
+            "AFR": 0.02388,
+            "AMR": 0.05645,
+            "EAS": 0.00093,
+            "EUR": 0.02741,
+            "SAS": 0.0
+          }
+        },
+        {
+          "allele": "HLA-C*12:02",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.03289,
+            "AFR": 0.0014,
+            "AMR": 0.00941,
+            "EAS": 0.04669,
+            "EUR": 0.00378,
+            "SAS": 0.10507
+          }
+        },
+        {
+          "allele": "HLA-C*15:02",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.03493,
+            "AFR": 0.0014,
+            "AMR": 0.0336,
+            "EAS": 0.02241,
+            "EUR": 0.02457,
+            "SAS": 0.1023
+          }
+        },
+        {
+          "allele": "HLA-C*16:01",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.04738,
+            "AFR": 0.11728,
+            "AMR": 0.05511,
+            "EAS": 0.0,
+            "EUR": 0.04442,
+            "SAS": 0.0
+          }
+        },
+        {
+          "allele": "HLA-C*17:01",
+          "locus": "HLA-C",
+          "frequencies": {
+            "overall": 0.02118,
+            "AFR": 0.07022,
+            "AMR": 0.0121,
+            "EAS": 0.0,
+            "EUR": 0.00473,
+            "SAS": 0.0
+          }
+        }
+      ]
+    },
+    "class_II": {
+      "count": 42,
+      "DRB1": [
+        "HLA-DRB1*01:01",
+        "HLA-DRB1*03:01",
+        "HLA-DRB1*03:02",
+        "HLA-DRB1*04:01",
+        "HLA-DRB1*04:04",
+        "HLA-DRB1*04:05",
+        "HLA-DRB1*07:01",
+        "HLA-DRB1*08:02",
+        "HLA-DRB1*08:03",
+        "HLA-DRB1*08:04",
+        "HLA-DRB1*09:01",
+        "HLA-DRB1*10:01",
+        "HLA-DRB1*11:01",
+        "HLA-DRB1*12:02",
+        "HLA-DRB1*13:01",
+        "HLA-DRB1*13:02",
+        "HLA-DRB1*14:04",
+        "HLA-DRB1*15:01",
+        "HLA-DRB1*15:02",
+        "HLA-DRB1*15:03",
+        "HLA-DRB1*16:02"
+      ],
+      "DRB3_4_5": [
+        "HLA-DRB3*01:01",
+        "HLA-DRB3*02:02",
+        "HLA-DRB4*01:01",
+        "HLA-DRB5*01:01"
+      ],
+      "DQ_heterodimers": [
+        "HLA-DQA1*05:01/DQB1*02:01",
+        "HLA-DQA1*02:01/DQB1*02:02",
+        "HLA-DQA1*03:01/DQB1*02:02",
+        "HLA-DQA1*05:01/DQB1*03:01",
+        "HLA-DQA1*03:01/DQB1*03:02",
+        "HLA-DQA1*03:01/DQB1*03:03",
+        "HLA-DQA1*05:01/DQB1*03:19",
+        "HLA-DQA1*04:01/DQB1*04:02",
+        "HLA-DQA1*01:01/DQB1*05:01",
+        "HLA-DQA1*01:02/DQB1*05:02",
+        "HLA-DQA1*01:03/DQB1*06:01",
+        "HLA-DQA1*01:02/DQB1*06:02"
+      ],
+      "DP_heterodimers": [
+        "HLA-DPA1*01:03/DPB1*02:01",
+        "HLA-DPA1*01:03/DPB1*04:01",
+        "HLA-DPA1*02:01/DPB1*05:01",
+        "HLA-DPA1*01:03/DPB1*04:02",
+        "HLA-DPA1*02:01/DPB1*01:01"
+      ],
+      "alleles": [
+        "HLA-DRB1*01:01",
+        "HLA-DRB1*03:01",
+        "HLA-DRB1*03:02",
+        "HLA-DRB1*04:01",
+        "HLA-DRB1*04:04",
+        "HLA-DRB1*04:05",
+        "HLA-DRB1*07:01",
+        "HLA-DRB1*08:02",
+        "HLA-DRB1*08:03",
+        "HLA-DRB1*08:04",
+        "HLA-DRB1*09:01",
+        "HLA-DRB1*10:01",
+        "HLA-DRB1*11:01",
+        "HLA-DRB1*12:02",
+        "HLA-DRB1*13:01",
+        "HLA-DRB1*13:02",
+        "HLA-DRB1*14:04",
+        "HLA-DRB1*15:01",
+        "HLA-DRB1*15:02",
+        "HLA-DRB1*15:03",
+        "HLA-DRB1*16:02",
+        "HLA-DRB3*01:01",
+        "HLA-DRB3*02:02",
+        "HLA-DRB4*01:01",
+        "HLA-DRB5*01:01",
+        "HLA-DQA1*05:01/DQB1*02:01",
+        "HLA-DQA1*02:01/DQB1*02:02",
+        "HLA-DQA1*03:01/DQB1*02:02",
+        "HLA-DQA1*05:01/DQB1*03:01",
+        "HLA-DQA1*03:01/DQB1*03:02",
+        "HLA-DQA1*03:01/DQB1*03:03",
+        "HLA-DQA1*05:01/DQB1*03:19",
+        "HLA-DQA1*04:01/DQB1*04:02",
+        "HLA-DQA1*01:01/DQB1*05:01",
+        "HLA-DQA1*01:02/DQB1*05:02",
+        "HLA-DQA1*01:03/DQB1*06:01",
+        "HLA-DQA1*01:02/DQB1*06:02",
+        "HLA-DPA1*01:03/DPB1*02:01",
+        "HLA-DPA1*01:03/DPB1*04:01",
+        "HLA-DPA1*02:01/DPB1*05:01",
+        "HLA-DPA1*01:03/DPB1*04:02",
+        "HLA-DPA1*02:01/DPB1*01:01"
+      ]
+    }
+  }
+}
