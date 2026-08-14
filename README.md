@@ -1,19 +1,17 @@
-# ANDV computational vaccine analysis
+# ANDVOR - Hantavirus Andes Open Research Vaccine
 
-This repository contains the computational research package for an in silico multi-epitope Andes virus (ANDV; *Orthohantavirus andesense*) vaccine candidate.
+This repository contains the computational research package for an in silico multi-epitope Andes virus (ANDV; *Orthohantavirus andesense*) vaccine candidate designated "ANDVOR".
 
 **Author:** Summus Stuprator
 
-The project combines peptide-HLA prediction, reduction of overlapping predictions to non-redundant regions, sequence-conservation analysis, human-proteome sequence comparison, genotype-based population-coverage modeling, secondary B-cell prediction, and candidate-level sequence descriptors. No wet-lab experiments were performed as part of this study.
-
+The project combines peptide-HLA prediction, reduction of overlapping predictions to non-redundant regions, sequence-conservation analysis, human-proteome sequence comparison, genotype-based population-coverage modeling, secondary B-cell prediction, and candidate-level sequence descriptors. THIS IS STRICTLY AN IN-SILICO CANDIDATE, meaning that all designs and computations were done on computer systems and machine learning algorithms. None of the content here has been validated in real-world laboratory conditions at this time. 
 ## Main results
 
-- 342,430 class-I and 64,680 class-II peptide-allele prediction rows were analyzed.
-- Strong-binding predictions reduced to 836 unique class-I peptides and 308 unique class-II peptides.
-- Overlap collapse produced 221 class-I and 73 class-II non-redundant cores.
-- The fixed candidate set contains 15 class-I and 10 class-II representatives.
-- Genotype-model combined coverage was 97.55% under the DRB1+DQB1 typed-loci model and 93.50% in the DRB1-only sensitivity model.
-- Conservation, human-proteome sequence similarity, B-cell prediction outputs, and aggregate candidate properties are included with the release.
+We analyzed 342,430 class-I and 64,680 class-II peptide-allele prediction rows and succesfully reduced strong-binding predictions to 836 unique class-I peptides and 308 unique class-II peptides.
+
+Overlap collapse produced 221 class-I and 73 class-II non-redundant cores. The candidate set contains 15 class-I and 10 class-II representatives.
+
+Genotype-model combined coverage was 97.55% under the DRB1+DQB1 typed-loci model and 93.50% in the DRB1-only sensitivity model. Conservation, human-proteome sequence similarity, B-cell prediction outputs, and aggregate candidate properties are included with the release.
 
 ## Repository contents
 
