@@ -34,7 +34,9 @@ The complete candidate amino-acid sequence is stored at `candidate/candidate_seq
 
 The large raw prediction CSVs are archived separately on Zenodo rather than committed to Git history.
 
-**Dataset DOI:** `10.5281/zenodo.21939568`
+**Dataset DOI:** 
+Manuscript DOI: `10.5281/zenodo.21940085`  
+Raw prediction dataset DOI: `10.5281/zenodo.21939568`
 
 `results/raw_predictions/deposit_manifest.json` records the archive filename, per-file row counts and hashes, and the SHA-256 of the companion archive.
 
@@ -56,7 +58,7 @@ python -m pip install -r requirements.txt
 make release-check
 ```
 
-The release validator checks authorship metadata, candidate-sequence integrity, expected prediction-row totals, corrected population-coverage outputs, stale release-language markers, and `MANIFEST.sha256`.
+The release validator checks authorship metadata, candidate-sequence integrity, expected prediction-row totals, population-coverage outputs, required release files, and manifest consistency.
 
 To regenerate the six manuscript figures and their machine-readable source-data CSVs:
 
