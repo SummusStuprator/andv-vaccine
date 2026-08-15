@@ -6,6 +6,13 @@ authors:
     given-names: Summus
 version: 1.0.1
 date-released: 2026-08-15
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21940932"
+    description: "Concept DOI for all ANDVOR software versions"
+  - type: doi
+    value: "10.5281/zenodo.21941008"
+    description: "Archived snapshot of ANDVOR v1.0.1"
 keywords:
   - Andes virus
   - Orthohantavirus andesense
