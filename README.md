@@ -1,5 +1,9 @@
 # ANDVOR — Hantavirus Andes Virus Open Research Vaccine
 
+[![Paper DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21940085.svg)](https://doi.org/10.5281/zenodo.21940085)
+[![Dataset DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21939568.svg)](https://doi.org/10.5281/zenodo.21939568)
+[![Software DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21940932.svg)](https://doi.org/10.5281/zenodo.21940932)
+
 This repository contains the open computational research package for ANDVOR, an in silico multi-epitope Andes virus (ANDV; *Orthohantavirus andesense*) vaccine candidate.
 
 **Author:** Summus Stuprator
