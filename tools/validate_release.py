@@ -40,8 +40,8 @@ if 'Summus Stuprator' not in (ROOT/'AUTHORS.md').read_text(encoding='utf-8'):
 cff=(ROOT/'CITATION.cff').read_text(encoding='utf-8')
 if 'family-names: Stuprator' not in cff or 'given-names: Summus' not in cff:
     ERRORS.append('CITATION.cff author metadata mismatch')
-if 'version: 1.0.0' not in cff:
-    ERRORS.append('CITATION.cff release version is not 1.0.0')
+if 'version: 1.0.1' not in cff:
+    ERRORS.append('CITATION.cff release version is not 1.0.1')
 
 # Release metadata and cross-file consistency.
 ddict=json.loads((ROOT/'data/data_dictionary.json').read_text(encoding='utf-8'))
