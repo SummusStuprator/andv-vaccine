@@ -109,7 +109,7 @@ def main():
         "surface_exposed_fraction_rsa>0.2": round((subc["rsa"] > RSA_MIN).mean(), 3),
         "cons_ANDV_mean_ident": region_cons(cons, "gpc", gc_lo + 477, gc_hi + 477),
         "glycan_shielded": any(gc_lo <= s <= gc_hi for s in out["nglyco_sequons"]["ANDV_Gc"]),
-        "note": "same sequence as class-II core C2-ANDV_Gc-023 representative peptide"}
+        "note": "same sequence as class-II core C2-ANDV_Gc-591 representative peptide"}
 
     with open(os.path.join(RES, "bcell_module.json"), "w") as f:
         json.dump(out, f, indent=1)

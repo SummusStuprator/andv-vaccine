@@ -1,5 +1,5 @@
 {
-  "project": "ANDV computational vaccine analysis",
+  "project": "ANDVOR: Andes Virus Open Research Vaccine",
   "author": "Summus Stuprator",
   "scope": "computational analysis of an in silico vaccine candidate; no wet-lab experiments were performed",
   "data_provenance": {
@@ -236,7 +236,7 @@
   },
   "release_content": "docs/RELEASE_CONTENT.md",
   "key_file_sha256": {
-    "candidate/candidate_sequence.fasta": "0a1dd50418f105df8a7ea1f9fa8aad9beb8f9fb09e7908bf968c0f9f39adc5e7",
+    "candidate/candidate_sequence.fasta": "94e289e9a33b31600d97d57b4fccc1f681787342e3826c57ce8f49fa49c4d87f",
     "data/canonical_sequences.fasta": "7fc8ec16af01cbd51987d69c8fb9a8feef43046cc7d8d6f441e9a52a24935a8e",
     "data/hla_allele_panel.json": "5089768d4122d0ae84db05403c697a512d42e65924d01fab727fe1fcaf5b5d07",
     "results/cores_class1_scored.csv": "926e7a926c223c01c8ba6ec10387107a13469db916706dc18712fc48fceff9e2",

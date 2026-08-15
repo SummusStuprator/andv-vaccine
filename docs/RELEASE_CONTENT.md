@@ -1,6 +1,6 @@
 # Release contents
 
-This repository is the version 1.0 research release associated with the ANDV computational vaccine manuscript.
+This repository is the version 1.0 ANDVOR research release associated with the computational Andes virus vaccine manuscript.
 
 It includes the complete in silico candidate sequence, viral sequence inputs, HLA and population inputs, conservation panels, derived epitope-core and selected-representative tables, human-proteome comparison results, population-coverage results, archived B-cell predictor outputs, analysis code, figures, figure source data, and manuscript files.
 

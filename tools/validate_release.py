@@ -4,11 +4,12 @@ from __future__ import annotations
 import hashlib
 import json
 import re
+import subprocess
 from pathlib import Path
 
 ROOT=Path(__file__).resolve().parents[1]
 ERRORS=[]
-TEXT_SUFFIXES={'.md','.txt','.json','.py','.sh','.cff','.yml','.yaml','.csv','.html'}
+TEXT_SUFFIXES={'.md','.txt','.json','.py','.sh','.cff','.yml','.yaml','.csv','.html','.fasta','.fa','.svg'}
 
 patterns={
     'absolute Windows user path': re.compile(r'C:\\\\Users\\\\', re.I),
@@ -41,6 +42,20 @@ if 'family-names: Stuprator' not in cff or 'given-names: Summus' not in cff:
     ERRORS.append('CITATION.cff author metadata mismatch')
 if 'version: 1.0.0' not in cff:
     ERRORS.append('CITATION.cff release version is not 1.0.0')
+
+# Release metadata and cross-file consistency.
+ddict=json.loads((ROOT/'data/data_dictionary.json').read_text(encoding='utf-8'))
+if ddict.get('project') != 'ANDVOR: Andes Virus Open Research Vaccine':
+    ERRORS.append('data_dictionary project name is not ANDVOR')
+release_content=ddict.get('release_content')
+if release_content != 'docs/RELEASE_CONTENT.md' or not (ROOT/release_content).is_file():
+    ERRORS.append('data_dictionary release_content path is missing or stale')
+if (ROOT/'results/cores_class1_conservation.csv').exists() or (ROOT/'results/cores_class2_conservation.csv').exists():
+    ERRORS.append('stale standalone core-conservation CSV remains; conservation belongs in cores_class*_scored.csv')
+bcell=json.loads((ROOT/'results/bcell_module.json').read_text(encoding='utf-8'))
+gc_note=bcell.get('modules',{}).get('Gc_591_605',{}).get('note','')
+if 'C2-ANDV_Gc-591' not in gc_note:
+    ERRORS.append('B-cell Gc module note does not reference current core C2-ANDV_Gc-591')
 
 # Candidate sequence integrity.
 csum=json.loads((ROOT/'results/construct_summary.json').read_text(encoding='utf-8'))
@@ -119,6 +134,7 @@ mf=ROOT/'MANIFEST.sha256'
 if not mf.exists():
     ERRORS.append('MANIFEST.sha256 missing')
 else:
+    manifest_paths=set()
     for n,line in enumerate(mf.read_text(encoding='utf-8').splitlines(),1):
         if not line.strip():
             continue
@@ -127,6 +143,7 @@ else:
         except ValueError:
             ERRORS.append(f'bad manifest line {n}')
             continue
+        manifest_paths.add(rel)
         p=ROOT/rel
         if not p.is_file():
             ERRORS.append(f'manifest path missing: {rel}')
@@ -134,6 +151,17 @@ else:
         got=hashlib.sha256(p.read_bytes()).hexdigest()
         if got != digest:
             ERRORS.append(f'manifest mismatch: {rel}')
+    try:
+        raw=subprocess.check_output(['git','-C',str(ROOT),'ls-files','-z'])
+        expected={p.decode() for p in raw.split(b'\0') if p and p.decode() != 'MANIFEST.sha256'}
+    except Exception:
+        expected={p.relative_to(ROOT).as_posix() for p in ROOT.rglob('*')
+                  if p.is_file() and '.git' not in p.parts and '__pycache__' not in p.parts
+                  and p.suffix != '.pyc' and p != mf}
+    for rel in sorted(expected-manifest_paths):
+        ERRORS.append(f'manifest entry missing: {rel}')
+    for rel in sorted(manifest_paths-expected):
+        ERRORS.append(f'manifest has untracked/extra entry: {rel}')
 
 if ERRORS:
     for e in ERRORS:

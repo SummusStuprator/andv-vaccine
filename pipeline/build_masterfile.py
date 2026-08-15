@@ -64,7 +64,7 @@ def main():
     raw_c2 = sum(x["rows"] for x in raw["files"] if x["file"].startswith("class2_"))
 
     master = {
-        "project": "ANDV computational vaccine analysis",
+        "project": "ANDVOR: Andes Virus Open Research Vaccine",
         "author": "Summus Stuprator",
         "scope": "computational analysis of an in silico vaccine candidate; no wet-lab experiments were performed",
         "data_provenance": {

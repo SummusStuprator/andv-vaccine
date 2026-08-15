@@ -1,13 +1,14 @@
-# ANDVOR - Hantavirus Andes Open Research Vaccine
+# ANDVOR — Hantavirus Andes Virus Open Research Vaccine
 
-This repository contains the computational research package for an in silico multi-epitope Andes virus (ANDV; *Orthohantavirus andesense*) vaccine candidate designated "ANDVOR".
+This repository contains the open computational research package for ANDVOR, an in silico multi-epitope Andes virus (ANDV; *Orthohantavirus andesense*) vaccine candidate.
 
 **Author:** Summus Stuprator
 
-The project combines peptide-HLA prediction, reduction of overlapping predictions to non-redundant regions, sequence-conservation analysis, human-proteome sequence comparison, genotype-based population-coverage modeling, secondary B-cell prediction, and candidate-level sequence descriptors. This is strictly an in-silico vaccine candidate, meaning that all designs were done only on computer systems. None of the content here has been validated in real-world laboratory conditions at this time. 
+The project combines peptide-HLA prediction, reduction of overlapping predictions to non-redundant regions, sequence-conservation analysis, human-proteome sequence comparison, genotype-based population-coverage modeling, secondary B-cell prediction, and candidate-level sequence descriptors. **ANDVOR is an in silico vaccine candidate.** This release reports computational design and analysis; no laboratory, animal, or clinical validation has been performed.
+
 ## Main results
 
-We analyzed 342,430 class-I and 64,680 class-II peptide-allele prediction rows and succesfully reduced strong-binding predictions to 836 unique class-I peptides and 308 unique class-II peptides.
+We analyzed 342,430 class-I and 64,680 class-II peptide-allele prediction rows and reduced strong-binding predictions to 836 unique class-I peptides and 308 unique class-II peptides.
 
 Overlap collapse produced 221 class-I and 73 class-II non-redundant cores. The candidate set contains 15 class-I and 10 class-II representatives.
 
@@ -34,8 +35,7 @@ The complete candidate amino-acid sequence is stored at `candidate/candidate_seq
 
 The large raw prediction CSVs are archived separately on Zenodo rather than committed to Git history.
 
-**Dataset DOI:** 
-Manuscript DOI: `10.5281/zenodo.21940085`  
+Manuscript DOI: `10.5281/zenodo.21940085`
 Raw prediction dataset DOI: `10.5281/zenodo.21939568`
 
 `results/raw_predictions/deposit_manifest.json` records the archive filename, per-file row counts and hashes, and the SHA-256 of the companion archive.

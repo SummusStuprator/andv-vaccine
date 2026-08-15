@@ -1,5 +1,5 @@
 {
-  "project": "ANDV computational vaccine analysis",
+  "project": "ANDVOR: Andes Virus Open Research Vaccine",
   "author": "Summus Stuprator",
   "canonical_sequences": {
     "file": "data/canonical_sequences.fasta",
@@ -61,5 +61,5 @@
     "metadata_dir": "results/raw_predictions/",
     "companion_archive_manifest": "results/raw_predictions/deposit_manifest.json"
   },
-  "release_boundary": "docs/RELEASE_BOUNDARY.md"
+  "release_content": "docs/RELEASE_CONTENT.md"
 }
