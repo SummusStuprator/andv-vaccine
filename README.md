@@ -7,11 +7,11 @@ This repository contains the open computational research package for ANDVOR, an 
 The project combines peptide-HLA prediction, reduction of overlapping predictions to non-redundant regions, sequence-conservation analysis, human-proteome sequence comparison, genotype-based population-coverage modeling, secondary B-cell prediction, and candidate-level sequence descriptors. **ANDVOR is an in silico vaccine candidate.** This release reports computational design and analysis; no laboratory, animal, or clinical validation has been performed.
 
 The paper is available on Zenodo in PDF form and on GitHub in online HTML form.
-Zenodo: https://zenodo.org/records/21940085
-GitHub: https://summusstuprator.github.io/andv-vaccine/
+* Zenodo: https://zenodo.org/records/21940085
+* GitHub: https://summusstuprator.github.io/andv-vaccine/
 
 The HLA prediction data used in this study is located on Zenodo.
-Zenodo: https://zenodo.org/records/21939568
+* Zenodo: https://zenodo.org/records/21939568
 
 ## Main results
 
